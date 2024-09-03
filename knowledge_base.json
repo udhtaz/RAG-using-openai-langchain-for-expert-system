@@ -1,0 +1,1357 @@
+{
+    "plants": [
+        {
+            "name": "Beans",
+            "diseases": [
+                {
+                    "disease_name": "Alternaria leaf spot",
+                    "botanical_name": "Alternaria alternata",
+                    "symptoms": "Small irregular brown lesions on leaves which expand and turn gray-brown or dark brown with concentric zones; older areas of lesions may dry out and drop from leaves causing shot hole; lesions coalesce to form large necrotic patches",
+                    "cause": "Fungus",
+                    "comments": "Disease emergence favored by high humidity and warm temperatures; plants grown in nitrogen and potassium deficient soils are more susceptible",
+                    "management": "Plant beans in fertile soil; foliar fungicide application may be required"
+                },
+                {
+                    "disease_name": "Anthracnose",
+                    "botanical_name": "Colletotrichum lindemuthianum (Glomerella lindemuthiana)",
+                    "symptoms": "Small, dark brown to black lesions on cotyledons; oval or eye-shaped lesions on stems which turn sunken and brown with purple to red margins; stems may break if cankers weaken stem; pods drying and shrinking above areas of visible symptoms; reddish brown spots on pods which become circular and sunken with rust colored margin.",
+                    "cause": "Fungus",
+                    "comments": "Disease transmitted through infected seed; fungus can survive in crop debris in soil and reinfect crop the following season.",
+                    "management": "Plant resistant varieties; use certified disease free seed; avoid sprinkler irrigation, water plants at base; plow bean crop debris into soil."
+                },
+                {
+                    "disease_name": "Bean rust",
+                    "botanical_name": "Uromyces appendiculatus",
+                    "symptoms": "Initially the symptoms appear as small yellow/white spots on leaves. Later the spots become enlarged and shows raised brick red rust pustules (uredinia). Normally this pustules are surrounded by a yellow halo. Premature leaf drop may occur if the disease is severe.",
+                    "cause": "Fungus",
+                    "comments": "Spores (urediniospores) spread from one field to another by air. The black teliospores formed at the end of the crop season overwinter in the field and act as inoculum for next season crops.",
+                    "management": "Grow available resistant varieties. Remove and destroy the infected crop debris. Follow crop rotation. Keep the field free from weeds. If the disease is severe, spray suitable fungicide."
+                },
+                {
+                    "disease_name": "Black root rot",
+                    "botanical_name": "Thielaviopsis basicola",
+                    "symptoms": "Elongated red-purple lesions on root tissue which turns dark gray to black; lesions coalesce to form large dark areas on roots and stems; deep lesions can cause stunted growth, wilting leaves, defoliation and plant death.",
+                    "cause": "Fungus",
+                    "comments": "Fungus survive in plant debris in soil.",
+                    "management": "Rotate crops with non-susceptible grasses; avoid excess irrigation or drought stress."
+                },
+                {
+                    "disease_name": "Fusarium root rot",
+                    "botanical_name": "Fusarium solani",
+                    "symptoms": "Young plants stunted with chlorotic leaves; older plants with chlorotic leaves and some leaf drop; severely decayed roots which are hollow and dry.",
+                    "cause": "Fungus",
+                    "comments": "Fungus can survive in soil for several years.",
+                    "management": "Practice long term crop rotation; avoid over or under watering plants; some bean varieties exhibit some tolerance."
+                },
+                {
+                    "disease_name": "White mold (Sclerotinia timber rot)",
+                    "botanical_name": "Sclerotinia sclerotum",
+                    "symptoms": "Flowers covered in white, cottony fungal growth; small, circular, dark green, water-soaked lesions on pods leaves and branches which enlarge and become slimy; cottony white growth may be visible on lesions during periods of high humidity; death of branches and/or entire plant.",
+                    "cause": "Fungus",
+                    "comments": "Fungus can survive in soil for in excess of 5 years; disease can be spread by wind, contaminated irrigation water and by infected seeds.",
+                    "management": "There is no true immunity to white mold in any bean varieties; rotate crops with non-hosts like cereals and corn; plant rows parallel to direction of prevailing winds to prevent spread of disease from secondary hosts nearby; avoid excessive nitrogen fertilizer; use a wide row spacing."
+                },
+                {
+                    "disease_name": "Bacterial blight",
+                    "botanical_name": "Xanthomonas campestris",
+                    "symptoms": "Water-soaked spots on leaves which enlarge and become necrotic; spots may be surrounded by a zone of yellow discoloration; lesions coalesce and give plant a burned appearance; leaves that die remain attached to plant; circular, sunken, red-brown lesion may be present on pods; pod lesions may ooze during humid conditions.",
+                    "cause": "Bacterium",
+                    "comments": "Disease can be introduced by contaminated seed; bacteria overwinters in crop debris; disease emergence favored by warm temperatures; spread is greatest during humid, wet weather conditions.",
+                    "management": "Plant only certified seed; plant resistant varieties; treat seeds with an appropriate antibiotic prior to planting to kill off bacteria; spray plants with an appropriate protective copper based fungicide before appearance of symptoms."
+                },
+                {
+                    "disease_name": "Bacterial brown spot",
+                    "botanical_name": "Pseudomonas syringae",
+                    "symptoms": "Small, dark brown necrotic spots on leaves which may be surrounded by a zone of yellow tissue; water soaked spots on pods which turn brown and necrotic; pods may twist and distort in area of infection.",
+                    "cause": "Bacterium",
+                    "comments": "Bacterium overwinters in crop residue; disease more severe when foliage is wet for extended periods.",
+                    "management": "Plant only certified seed; rotate crops regularly; remove crop debris from field after harvest."
+                },
+                {
+                    "disease_name": "Halo blight",
+                    "botanical_name": "Pseudomonas savastanoi pv. phaseolicola",
+                    "symptoms": "Small water-soaked spots on underside of leaves which turn necrotic and become visible on upper surface; lesions may develop an area of chlorotic tissue around the spots; lesions on expanding leaves may cause distorted leaves; red-brown lesions may be visible on pods; pod lesions may ooze or may turn tan in color.",
+                    "cause": "Bacterium",
+                    "comments": "Bacterium survives in seeds and crop debris and enters plants through natural openings such as stomata and is spread by splashing water and soil movement.",
+                    "management": "Plant disease free seed or treat seed with an antibiotic to reduce levels of bacterium; rotate crops to non-hosts every 2 years; plow bean debris deeply in soil after harvest."
+                },
+                {
+                    "disease_name": "Damping-off",
+                    "botanical_name": "Rhizoctonia solani\nPythium",
+                    "symptoms": "The pathogens attack any stage of crop beginning from seed rot; damping off of seedlings; or stunting, yellowing and death of older plants. Visible symptoms are the appearance of elongated sunken reddish-brown lesions on roots and stems at or below the soil line. Further the lesions girdle the stem, causing the death of the plant. Older plants may show little indication of the disease, although yields may be reduced. The pith may turn brick- red if invaded by the fungus.",
+                    "cause": "Fungus",
+                    "comments": "The pathogens are transmitted by irrigation water, soil and equipments.",
+                    "management": "Follow crop rotation with non host crops. Sow the seeds in warm soil with well prepared seed bed and proper depth. Treat seeds with a suitable fungicide."
+                },
+                {
+                    "disease_name": "Mosaic",
+                    "botanical_name": "Aphis craccivora\nAcyrthosiphon pisum",
+                    "symptoms": "Mottled dark and light green patterns on leaves; leaves may be distorted; yellow dots may be present on leaves; growth of plant may be reduced.",
+                    "cause": "Viruses",
+                    "comments": "BCMV can be transmitted by seed and has a worldwide distribution; BCMNV also transmitted through infected seed but geographic range more restricted.",
+                    "management": "Plant only virus-free seed; plant resistant varieties."
+                },
+                {
+                    "disease_name": "Aphids (Cowpea aphid, Pea aphid, etc.)",
+                    "botanical_name": "Aphis craccivora\nAcyrthosiphon pisum",
+                    "symptoms": "Small soft bodied insects on underside of leaves and/or stems of plant; usually green or yellow in color, but may be pink, brown, red or black depending on species and host plant; if aphid infestation is heavy it may cause leaves to yellow and/or distorted, necrotic spots on leaves and/or stunted shoots; aphids secrete a sticky, sugary substance called honeydew which encourages the growth of sooty mold on the plants.",
+                    "cause": "Insect",
+                    "comments": "Distinguishing features include the presence of cornicles (tubular structures) which project backwards from the body of the aphid; will generally not move very quickly when disturbed.",
+                    "management": "If aphid population is limited to just a few leaves or shoots then the infestation can be pruned out to provide control; check transplants for aphids before planting; use tolerant varieties if available; reflective mulches such as silver colored plastic can deter aphids from feeding on plants; sturdy plants can be sprayed with a strong jet of water to knock aphids from leaves; insecticides are generally only required to treat aphids if the infestation is very high - plants generally tolerate low and medium level infestation; insecticidal soaps or oils such as neem or canola oil are usually the best method of control; always check the labels of the products for specific usage guidelines prior to use."
+                },
+                {
+                    "disease_name": "Armyworms (Beet armyworm, Western striped armyworm)",
+                    "botanical_name": "Spodoptera exigua\nSpodoptera praefica",
+                    "symptoms": "Singular, or closely grouped circular to irregularly shaped holes in foliage; heavy feeding by young larvae leads to skeletonized leaves; shallow, dry wounds on fruit; egg clusters of 50-150 eggs may be present on the leaves; egg clusters are covered in a whitish scale which gives the cluster a cottony or fuzzy appearance; young larvae are pale green to yellow in color while older larvae are generally darker green with a dark and light line running along the side of their body and a pink or yellow underside.",
+                    "cause": "Insect",
+                    "comments": "Insect can go through 3–5 generations a year.",
+                    "management": "Organic methods of controlling armyworms include biological control by natural enemies which parasitize the larvae and the application of Bacillus thuringiensis; there are chemicals available for commercial control but many that are available for the home garden do not provide adequate control of the larvae."
+                },
+                {
+                    "disease_name": "Corn earworm",
+                    "botanical_name": "Helicoverpa zea",
+                    "symptoms": "Larvae damage leaves, buds, flowers, pods and beans; young caterpillars are cream-white in color with a black head and black hairs; older larvae may be yellow-green to almost black in color with fine white lines along their body and black spots at the base of hairs; eggs are laid singly on both upper and lower leaf surfaces and are initially creamy white but develop a brown-red ring after 24 hours and darken prior to hatching.",
+                    "cause": "Insect",
+                    "comments": "Adult insect is a pale green to tan, medium sized moth; insect is also very damaging pests of corn; insect overwinters as pupae in the soil.",
+                    "management": "Monitor plants for eggs and young larvae and also natural enemies that could be damaged by chemicals; Bacillus thuringiensis or Entrust SC may be applied to control insects on organically grown plants; appropriate chemical treatment may be required for control in commercial plantations."
+                },
+                {
+                    "disease_name": "Cutworms",
+                    "botanical_name": "Agrotis",
+                    "symptoms": "Stems of young transplants or seedlings may be severed at soil line; if infection occurs later, irregular holes are eaten into the surface of fruits; larvae causing the damage are usually active at night and hide during the day in the soil at the base of the plants or in plant debris of toppled plant; larvae are 2.5–5.0 cm (1–2 in) in length; larvae may exhibit a variety of patterns and coloration but will usually curl up into a C-shape when disturbed.",
+                    "cause": "Insects",
+                    "comments": "Cutworms have a wide host range and attack vegetables including asparagus, bean, cabbage and other crucifers, carrot, celery, corn, lettuce, pea, pepper, potato and tomato.",
+                    "management": "Remove all plant residue from soil after harvest or at least two weeks before planting, this is especially important if the previous crop was another host such as alfalfa, beans or a leguminous cover crop; plastic or foil collars fitted around plant stems to cover the bottom 3 inches above the soil line and extending a couple of inches into the soil can prevent larvae severing plants; hand-pick larvae after dark; spread diatomaceous earth around the base of the plants (this creates a sharp barrier that will cut the insects if they try and crawl over it); apply appropriate insecticides to infested areas of garden or field if not growing organically."
+                },
+                {
+                    "disease_name": "Leafminers",
+                    "botanical_name": "Lyriomyza",
+                    "symptoms": "Thin, white, winding trails on leaves; heavy mining can result in white blotches on leaves and leaves dropping from the plant prematurely; early infestation can cause fruit yield to be reduced; adult leafminer is a small black and yellow fly which lays its eggs in the leaf; larvae hatch and feed on leaf interior.",
+                    "cause": "Insects",
+                    "comments": "Mature larvae drop from leaves into soil to pupate; entire lifecycle can take as little as 2 weeks in warm weather; insect may go through 7 to 10 generations per year.",
+                    "management": "Check transplants for signs of leafminer damage prior to planting; remove plants from soil immediately after harvest; only use insecticides when leafminer damage has been identified as unnecessary spraying will also reduce populations of their natural enemies."
+                },
+                {
+                    "disease_name": "Loopers (Cabbage looper, Alfalfa looper)",
+                    "botanical_name": "Trichoplusia ni",
+                    "symptoms": "Large or small holes in leaves; damage often extensive; caterpillars are pale green with a white lines running down either side of their body; caterpillars are easily distinguished by the way they arch their body when moving; eggs are laid singly, usually on the lower leaf surface close to the leaf margin, and are white or pale green in color.",
+                    "cause": "Insect",
+                    "comments": "Insects overwinter as pupae in crop debris in soil; adult insect id a dark colored moth; caterpillars have a wide host range.",
+                    "management": "Looper populations are usually held in check by natural enemies; if they do become problematic larvae can be hand-picked from the plants; an organically acceptable control method is the application of Bacillus thuringiensis which effectively kills younger larvae; chemical sprays may damage populations of natural enemies and should and should be selected carefully."
+                },
+                {
+                    "disease_name": "Mexican bean beetle",
+                    "botanical_name": "Epilachna varivestis",
+                    "symptoms": "Irregular patches of feeding damage on underside of leaves which causes the top surface of the leaf to dry out, giving the leaves a lacy appearance; insect will also damage flowers and small pods; pods may be damaged so badly that they drop from the plant; adult insect is an orange-brown beetle with black spots; larvae are fat-bodied grubs which taper at the end  and are in rows of conspicuous spines",
+                    "cause": "Insect",
+                    "comments": "Beetles can decimate bean crops; beetles overwinter as adults and undergo 2-3 generations per year",
+                    "management": "Some bean varieties may be less attractive hosts for the beetle, e.g. snapbeans are preferred hosts over lima beans; early varieties may escape damage form beetles  beetle populations can be reduced by remove overwintering sites such as brush and leaves on the ground; handpick larvae and adults; brush eggs from leaves and destroy; apply insecticidal soap to leaf undersides if infestation is heavy"
+                },
+                {
+                    "disease_name": "Stinkbugs (Consperse stinkbug, etc.)",
+                    "botanical_name": "Euschistus conspersus",
+                    "symptoms": "Dark colored pinpricks on fruit surrounded by a lighter area that turns yellow or remains light green; stink bugs often carry pathogens in their mouthparts which can cause secondary infections and decay of fruit; adult insect is shield-shaped and brown or green in color; may have pink, red or yellow markings; eggs are drum shaped and laid in clusters on the leaves; larvae resemble the adults but are smaller.",
+                    "cause": "Insect",
+                    "comments": "Adult insects overwinter under leaves, on legumes, blackberries or on certain weeds such as mustard or Russian thistle.",
+                    "management": "Remove weeds around crop which may act as overwintering sites for stink bugs and practice good weed management throughout the year; organically accepted control methods include the use of insecticidal soaps, kaolin clay and preservation of natural enemies; chemical treatments are not recommended for tomatoes that are to be processed for paste or canning unless secondary infections with other pathogens are a concern."
+                },
+                {
+                    "disease_name": "Spider mites (Two-spotted spider mite)",
+                    "botanical_name": "Tetranychus urticae",
+                    "symptoms": "Leaves stippled with yellow; leaves may appear bronzed; webbing covering leaves; mites may be visible as tiny moving dots on the webs or underside of leaves, best viewed using a hand lens; usually not spotted until there are visible symptoms on the plant; leaves turn yellow and may drop from plant.",
+                    "cause": "Arachnid",
+                    "comments": "Spider mites thrive in dusty conditions; water-stressed plants are more susceptible to attack.",
+                    "management": "In the home garden, spraying plants with a strong jet of water can help reduce buildup of spider mite populations; if mites become problematic apply insecticidal soap to plants; certain chemical insecticides may actually increase mite populations by killing off natural enemies and promoting mite reproduction."
+                }
+            ]
+        },
+        {
+            "name": "Mango",
+            "diseases": [
+                {
+                    "disease_name": "Algal leaf spot",
+                    "botanical_name": "Cephaleuros virescens",
+                    "symptoms": "Orange rusty spots on both upper and lower leaf surfaces which may coalesce to form large irregularly shaped patches; scraping away the orange spots reveals a grayish discoloration of the leaf lamina underneath",
+                    "cause": "Alga",
+                    "comments": "Disease affects many fruit trees in the tropics; infection is unsightly but often harmless",
+                    "management": "Ensure that trees are properly pruned and fertilized to promote vigor; remove all weeds from around tree bases; employ a wider tree spacing to increase air circulation around the trees; badly infested trees can be treated with copper containing fungicides"
+                },
+                {
+                    "disease_name": "Anthracnose",
+                    "botanical_name": "Colletotrichum gleosporioides",
+                    "symptoms": "Small, dark spots on flowers; spots coalesce to cover entire panicle; infected flowers dropping from tree; dark flecks or spots with yellow halo on young leaves; dark, irregular, sunken lesions on fruit; fruits dropping from tree before ripe",
+                    "cause": "Fungus",
+                    "comments": "Disease emergence favored by wet conditions; serious disease of mango wherever it is grown",
+                    "management": "Susceptible mango varieties should be protected with fungicide in commercial production and the timing of the applications are critical to successful control; appropriate fungicide should be applied during flowering and fruit development"
+                },
+                {
+                    "disease_name": "Phoma blight",
+                    "botanical_name": "Phoma glomerata",
+                    "symptoms": "Angular or irregular brown lesions on old leaves; lesions may develop gray centers and dark margin; withering leaves; defoliation of tree",
+                    "cause": "Fungus",
+                    "comments": "",
+                    "management": "If pink disease is identified the recommended treatment is an application of an appropriate fungicide which can be applied by spraying or painting onto infected bark with a paintbrush"
+                },
+                {
+                    "disease_name": "Pink disease",
+                    "botanical_name": "Erythricium salmonicolor",
+                    "symptoms": "White, silk-like threads at forks of branches which coalesce to form a pink crust during wet conditions; twigs and branches above this site may be killed and foliage will begin to dry out and die; orange pustules may be present on infected bark",
+                    "cause": "Fungus",
+                    "comments": "Pink disease is a destructive disease of mango grown in the wet tropics",
+                    "management": "If pink disease is identified the recommended treatment is an application of an appropriate fungicide which can be applied by spraying or painting onto infected bark with a paintbrush"
+                },
+                {
+                    "disease_name": "Powdery mildew",
+                    "botanical_name": "Odium mangiferae",
+                    "symptoms": "Gray-white powdery growth on leaves, flowers and/or fruit; curled, distorted shoots; fruit aborted and dropping from tree",
+                    "cause": "Fungus",
+                    "comments": "Found in all mango growing regions; outbreaks sporadic but can be severe",
+                    "management": "Fungicides are very effective at controlling powdery mildew if applied at the first sign of the disease; chemical sprays only need be applied at flowering and fruit set"
+                },
+                {
+                    "disease_name": "Sooty mold",
+                    "botanical_name": "Xanthomonas campestris",
+                    "symptoms": "The leaves, twigs, inflorescence and fruits are covered with shiny black and sticky growth of fungal mycelium. The sooty mold won't cause any direct infection to plants, but it may effect the photosynthetic process which may cause premature aging and death of leaves. Also plants may show stunted growth.",
+                    "cause": "Fungus",
+                    "comments": "Sooty mold mainly develops on honey dew secreted by sap sucking insects like whiteflies, aphids, leaf hoppers, scale insects, mealybugs and psyllids. Also this insects are always associated with ants.",
+                    "management": "1. If plants are small wash mold with strong stream of water\r\n2. Spraying starch also removes sooty mold\r\n3. Control sap sucking insects\r\n4. Also keep the trees free from ants by applying a sticky compound around the trunk ."
+                },
+                {
+                    "disease_name": "Bacterial black spot (Bacterial canker)",
+                    "botanical_name": "Xanthomonas campestris",
+                    "symptoms": "Angular, water-soaked spots on leaves which coalesce and turn black; black cankerous lesions on stems which crack and exude a gummy substance; irregular black lesions on fruits which extend into the flesh and exude gum; fruits dropping from plant",
+                    "cause": "Bacterium",
+                    "comments": "Bacterial black spot is found in most tropical and subtropical areas where mango is grown",
+                    "management": "Provide windbreaks for plants; prune out infected twigs; protective sprays of copper during wet weather help to protect plants from the disease"
+                },
+                {
+                    "disease_name": "Fruit fly",
+                    "botanical_name": "Ceratitis cosyra",
+                    "symptoms": "The adult female flies lay egg just under the skin of semi repine fruits. The maggots develop and feed inside the fruit, causing the flesh to turn brown and soft which emits foul smell. This damage also act as entry site for fungal and bacterial pathogens.",
+                    "cause": "Insect",
+                    "comments": "The mature maggots fall out of the fruits and pupate in soil.",
+                    "management": "1. Collect the fallen fruits and destroy them.\r\n2. Also harvest fruits early to reduce flies damage .\r\n3. Use traps to monitor fruit flies. Traps can be purchased in the market or one can prepare themselves. Take plastic container with lids (one quarts yogurt container is fine). Drill holes (10 to 16 holes) that are 3/16-inch in diameter around the upper side of the container. Add 1 to 2 inch of pure apple cider vinegar (not flavored one) and a drop of unscented liquid dishwashing soap into the container. Hang the container in shade near berry trees before fruits ripening and check the traps frequently for flies. Change the vinegar every week.\r\n5. Spraying protein bait under leaf surface attract flies to single spot which make easier to kill them. \r\n4. If infestation is severe spray suitable insecticide."
+                },
+                {
+                    "disease_name": "Mango hoppers",
+                    "botanical_name": "Idioscopus clypealis\nIdioscopus nitidulus\nAmritodus atkinsoni",
+                    "symptoms": "Reduced plant vigor; sticky substance coating leaves; may be a growth of sooty mold on sticky residues; curling and drying leaves",
+                    "cause": "Insects",
+                    "comments": "Insect emergence favored by shady and humid conditions",
+                    "management": "1. Collect and burn fallen leaves and twigs.\r\n2. Flooding orchard with water during October kills egg present in soil. Also deep ploughing in November exposes egg to sunlight.\r\n3. After hatching the nymphs start climbing tree and suck sap. To avoid this band the tree trunks with polythene sheet (400 gauge, 30 cm wide) at a height of about 30 cm from the ground level and apply grease at the lower edge of band. Or you can use Funnel Type Slippery Traps.\r\n4. To control insects already on tree you can spray fish oil rosin soap or azadirachtin (neem products).\r\n5. Also soil application of the spores of the fungus, Beauveria bassiana helps in reducing mealybug population.\r\n6. If infestation is severe you can spray suitable insecticides"
+                },
+                {
+                    "disease_name": "Mango mealybugs",
+                    "botanical_name": "Drosicha mangiferae",
+                    "symptoms": "Both nymphs and female insects sucks sap form all parts mango tree (i.e., tender leaves, shoots and inflorescence). The infected inflorescences may dry up affecting the fruit set and may cause fruit drop. Severely infected plants may show wilting and thereby affect fruit setting.",
+                    "cause": "Insect",
+                    "comments": "a. Mealybugs lay eggs in soil near tree trunk. \r\nb. The mealybugs secrete the honey dew which causes sooty mold. \r\nc. It feeds on wide range of plant species.",
+                    "management": "1. Collect and burn fallen leaves and twigs.\r\n2. Flooding orchard with water during October kills egg present in soil. Also deep ploughing in November exposes egg to sunlight.\r\n3. After hatching the nymphs start climbing tree and suck sap. To avoid this band the tree trunks with polythene sheet (400 gauge, 30 cm wide) at a height of about 30 cm from the ground level and apply grease at the lower edge of band. Or you can use Funnel Type Slippery Traps.\r\n4. To control insects already on tree you can spray fish oil rosin soap or azadirachtin (neem products).\r\n5. Also soil application of the spores of the fungus, Beauveria bassiana helps in reducing mealybug population.\r\n6. If infestation is severe you can spray suitable insecticides"
+                },
+                {
+                    "disease_name": "Mango tree borer",
+                    "botanical_name": "Batocera rufomaculata",
+                    "symptoms": "Mango tree borer damage may first be noticed as circular holes in the bark. This damage indicates that the tree has been attacked by borers which have chewed exit holes in the wood. Mango tree borers feed on the bark of twigs and chew green growing tips; when feeding damage is severes, branches may be killed and the main stem of the tree may collapse; insect frass (feces) collects in cracks in the bark and around the base of the tree; holes become visible in the bark.",
+                    "cause": "Insect",
+                    "comments": "Mango tree borers are a pest of mango trees in many parts of Asia, Africa, Central America, the Caribbean and the Solomon Islands; female tree borers lay their eggs in an incision made in damaged mango bark; larvae bore through the wood as they feed and eventually pupate within the tree; adult insects emerge from an exit hole that they cut in the wood. adult insects are 25–55 mm long with distinctive long antennae which extend the length of the body",
+                    "management": "Application of appropriate insecticide to the trunk and branches of the tree when adult insects are present acts to kill any eggs and larvae that are present; insecticide applied to growing twigs and green shoots may deter adult feeding; probing injury sites with a knife or piece of wire can help to destroy larvae and eggs"
+                },
+                {
+                    "disease_name": "White Mango Scale",
+                    "botanical_name": "Aulacaspis tubercularis",
+                    "symptoms": "Scale insects suck the sap from leaves, branches and fruits which causes defoliation, drying up of young twigs, poor blossoming and also affect the quality of fruits by causing conspicuous pink blemishes. Infestation of young plants results in retard growth. In case of severe infestation the fruits may fall prematurely, whereas the mature fruits are reduced in size.\r\nAnother major problem with scale insect is the development of sooty mold due to honeydew secretion.",
+                    "cause": "Insect",
+                    "comments": "The insect have wide host range and can be seen in all mango growing countries like Ghana, Kenya, Madagascar, Mozambique, South Africa, Tanzania, Uganda, Zimbabwe, Australia, China, India, Indonesia, Malaysia, Pakistan, Philippines, Sri Lanka, Taiwan, Thailand, Japan, Egypt, Iraq, Israel, Italy and in many South American countries.",
+                    "management": "Remove the infested plant parts and burn them. Spraying emulsive oil or suitable insecticides at recommended quantity will helps in reducing scale population."
+                }
+            ]
+        },
+        {
+            "name": "Cocoa",
+            "diseases": [
+                {
+                    "disease_name": "Black pod (Phytophthora pod rot)",
+                    "botanical_name": "Phytophthora palmivora\nPhytophthora megakarya\nPhytophthora capsici",
+                    "symptoms": "Translucent spots on pod surface which develop into a small, dark hard spots; entire pod becomes black and necrotic with 14 days of initial symptoms; white to yellow downy growth on black areas; internal tissues become dry and shriveled resulting in mummified pods",
+                    "cause": "Oomycete",
+                    "comments": "Disease occurs in all cocoa growing areas; P. megakarya is most destructive in Central and West Africa whereas P. capsici is most common in Central and South America",
+                    "management": "Protective sprays of copper containing fungicides in combination with systemic fungicides are often recommended to control the disease; cocoa plants should be well spaced to allow good air circulation through the plantation; mummified pods should be removed and destroyed to reduce spread"
+                },
+                {
+                    "disease_name": "Cocoa swollen shoot",
+                    "botanical_name": "Moniliophthora roreri",
+                    "symptoms": "Swelling of leaves and shoots; red leaf veins, notably in young leaves; chlorotic patches next to leaf veins; chlorotic spots or flecks on leaves mottled, smooth pods with reduced beans; mottled coloration on pods; stems may develop swellings at nodes or internodes and shoot tips; progressive defoliation may occur ultimately leading to the death of the tree.",
+                    "cause": "Virus",
+                    "comments": "Only occurs in West Africa. Major problem in Togo, Ghana, Cote d'Ivorie and Nigeria; transmitted by mealybugs. The Swollen Shoot Virus is not native to cocoa but jumped into the cocoa from trees that grew in the rain forests of W. Africa (e.g. Cola chlamydanta, Ceiba pentandra, Adansonia digitata, Cola gigantean and Sterculia tragacantha). The virus is a badnavirus within the family Caulimoviridae.",
+                    "management": "Infected trees and those surrounding them should be removed and destroyed (up to 5 m from infected tree if less than 10 trees are infected and up to a distance of 15 m if greater than 100 trees are infected) to prevent further spread; a gap should be placed between cocoa plantations of at least 10 m (33 ft) and it may be possible to isolate cocoa plantations using a non-host crop such as oil palm growing between plantations."
+                },
+                {
+                    "disease_name": "Frosty pod (Monilia pod rot, Watery pod rot)",
+                    "botanical_name": "Moniliophthora roreri",
+                    "symptoms": "Spots on surface of immature pods; spots turning brown and rapidly enlarging to cover entire pod surface; disease affects only actively growing pods.",
+                    "cause": "Fungus",
+                    "comments": "Causes serious losses in South-Western parts of South America; spores are dry and powdery and are spread easily by water movement, wind or movement of pods; disease spread is highest during periods of high rainfall.",
+                    "management": "Planting cocoa varieties that produce pods during the dry season allows the pod to avoid the disease; pods showing symptoms of disease should be removed to prevent spread; application of copper containing fungicides will help reduce disease incidence."
+                },
+                {
+                    "disease_name": "Witches' broom",
+                    "botanical_name": "Moniliophthora perniciosa",
+                    "symptoms": "Characteristic proliferation of shoots and brooms from bud; production of branches which do not produce fruit; distorted pods with green patches which give an appearance of uneven ripening.",
+                    "cause": "Fungus",
+                    "comments": "One of the most devastating cocoa diseases in South America; disease is widespread throughout South America, the Caribbean and Panama; spread of disease greatly influenced by humidity with emergence favored by high temperature and high humidity (>80%).",
+                    "management": "Good sanitation is the most effective method of controlling the disease; material known to be infected should be removed and destroyed; removal of infected material can be difficult as there may be no visible symptoms; new fungicides and resistant cocoa varieties are being developed to help control the disease."
+                },
+                {
+                    "disease_name": "Cocoa mealybugs",
+                    "botanical_name": "Planococcus",
+                    "symptoms": "Flattened oval to round disc-like insect covered in waxy substance on tree branches; insects attract ants which may also be present; insect colony may also be associated with growth of sooty mold due to fungal colonization of sugary honeydew excreted by the insect; symptoms of directinsect damage not well documented but trees may exhibit symptoms of cocoa swollen shoot (see disease entry)",
+                    "cause": "Insect",
+                    "comments": "Insects have a wide host range; often tended by ants which farm them for their sugary honeydew secretions; transmit Cocoa swollen shoot virus",
+                    "management": "Mealybugs can potentially be controlled by natural enemies such as lady beetles but are commonly controlled using chemicals; chemical pesticides may also decrease populations of natural enemies leading to mealybug outbreaks"
+                },
+                {
+                    "disease_name": "Cocoa mirid",
+                    "botanical_name": "Distantiella theobroma \nSahlbergella singularis\nHelopeltis",
+                    "symptoms": "First symptoms appear as tiny puncture wounds on young stems and pods; these punctures quickly turn necrotic, creating black patches which may develop into cankers; discolored bark; terminal leaves and branches dying back; trees unproductive; adult insect is a slender red or brown insect with long legs and antennae; adults are typically between 7 and 10 mm long.",
+                    "cause": "Insect",
+                    "comments": "Adult females lay their eggs in the bark of the tree and can lay between 30 and 40 eggs.",
+                    "management": "In African countries, the insect is usually controlled by chemical eradication programs consisting of two sprays conducted one month apart to target different stages of the insects development; mirids have been shown to be attracted to trees positioned in direct sunlight and providing shade cover in the form of forest to cocoa trees can be used as part of an integrated control method; do not interplant with other hosts such as cashew, tea, sweet potato, guava, cotton or mango - the trees used must be non-hosts; some species of ant, e.g black ants, can be used as a biological control agent."
+                },
+                {
+                    "disease_name": "Cocoa pod borer",
+                    "botanical_name": "Conopomorpha cramerella",
+                    "symptoms": "Holes in cocoa pod husk caused by insect larvae entering and exiting the pod; uneven and premature ripening of pods; seeds sticking together inside pod due to insect eating surrounding tissue; harvested cocoa beans clump together and can be very difficult to remove from the pod; adult insect is a small brown moth; larvae are cream in color and approximately 1 cm (0.4 in) long; larvae change color to green when they emerge from the pod to pupate.",
+                    "cause": "Insect",
+                    "comments": "Female moth lives for approximately 5-7 days and can lay 100-200 eggs; eggs are laid on the surface of cocoa pods; larvae develop for 14-18 days before pupating.",
+                    "management": "Sleeving pods in plastic bags while they mature prevents the insect from reaching the pods, sleeves should be applied when pods are 8-10 cm (3-4 in) long; borer populations can be held in check by black ants and weaver ants; chemical control is often economically unfeasible due to the high price of pesticides compared with the low price of cocoa but, where available, small amounts of contact pyrethroid or carbamate applied to underside of cocoa leaves can keep borers below an economically damaging level."
+                }
+            ]
+        },
+        {
+            "name": "Okra",
+            "diseases": [
+                {
+                    "disease_name": "Charcoal rot",
+                    "botanical_name": "Macrophomina phaseolina",
+                    "symptoms": "Discoloration of stem at soil line; cankers on stem may spread upwards; leaves may wilt and drop from plant; numerous small black sclerota (fungal fruiting bodies) develop in affected tissues and can be used to diagnose the disease",
+                    "cause": "Fungus",
+                    "comments": "Fungus had a wide host range and affects beans, tobacco, soybean, pigeon pea and many other crops; disease is primarily spread via microsclerota in the soil",
+                    "management": "Rotate crop to non-host to reduce build-up of inoculum in the soil; avoid water stress to plants by irrigating when required"
+                },
+                {
+                    "disease_name": "Fusarium wilt",
+                    "botanical_name": "Fusarium oxysporum",
+                    "symptoms": "Wilting of cotyledons and seedling leaves; cotyledons become chlorotic at the edges and then necrotic; older plants exhibit symptoms of wilting and leaf chlorosis; wilting is usually gradual but may be pronounced after heavy summer rain; if infection is severe plants become stunted and may be killed; vascular system of infected plants becomes discolored and can be seen by cutting the stem",
+                    "cause": "Fungus",
+                    "comments": "Disease emergence is favored by warm temperatures; fungus may be introduced to field through infected seed or by contaminated equipment and human movement",
+                    "management": "Use on certified, disease-free seed; plant varieties with higher resistance to the disease in areas with a history of Fusarium diseases; fumigating the soil may reduce disease incidence"
+                },
+                {
+                    "disease_name": "Powdery mildew",
+                    "botanical_name": "Oidium asteris-punicei",
+                    "symptoms": "Powdery white covering on leaves; patches may coalesce to cover entire plant; if plant is heavily infected leaves may roll upward and appear scorched",
+                    "cause": "Fungus",
+                    "comments": "Fungus overwinters on plant debris or alternate host; disease emergence is favored by warm, dry weather with cool nights that result in dew formation",
+                    "management": "Use overhead irrigation (washes fungus from leaves and reduces viability); plant crop as early as possible; applications of appropriate fungicides may be necessary to control the disease"
+                },
+                {
+                    "disease_name": "Southern blight",
+                    "botanical_name": "Sclerotium rolfsii",
+                    "symptoms": "Sudden wilting of leaves; yellowing foliage; browning stem above and below soil; browning branches; stem may be covered with fan-like mycelial mat",
+                    "cause": "Fungus",
+                    "comments": "Fungus can survive in soil for long periods; disease emergence favored by high temperatures, high humidity and acidic soil; disease found mainly in tropical and subtropical regions, including the southern United States",
+                    "management": "Remove infected plants; avoid overcrowding plants to promote air circulation; rotate crops with less susceptible plants; plow crop debris deep into soil; provide a barrier to infection by wrapping lower stems of plant with aluminum foil covering below ground portion of stem and 2-3 in above soil line"
+                },
+                {
+                    "disease_name": "White mold",
+                    "botanical_name": "Sclerotinia sclerotum",
+                    "symptoms": "Flowers covered in white, cottony fungal growth; small, circular, dark green, water-soaked lesions on pods leaves and branches which enlarge and become slimy; cottony white growth may be visible on lesions during periods of high humidity; death of branches and/or entire plant",
+                    "cause": "Fungus",
+                    "comments": "Fungus can survive in soil for in excess of 5 years; disease can be spread by wind, contaminated irrigation water and by infected seeds",
+                    "management": "Rotate crops with non-hosts like cereals and corn; plant rows parallel to direction of prevailing winds to prevent spread of disease from secondary hosts nearby; avoid excessive nitrogen fertilizer; use a wide row spacing"
+                },
+                {
+                    "disease_name": "Enation leaf curl disease",
+                    "botanical_name": "Okra Enation Leaf Curl Virus (OELCV)",
+                    "symptoms": "On lower surface of leaves we will see a small pin head enations. This enation become warty and rough in structure at later stage. Reduce in leaf size. The stem, lateral branches and leaf petioles become twisted along enation. Leaves appear thick and leathery. In severely infected plants the emerging leaves shows bold enations and curling. And produce few deformed fruits.",
+                    "cause": "Virus",
+                    "comments": "The virus is transmitted by white fly.",
+                    "management": "1. Remove the infected plant and burn them to avoid further spread of disease\r\n2. Use yellow sticky traps to monitor whiteflies population\r\n3. If the whiteflies infestation is more spray suitable insecticides."
+                },
+                {
+                    "disease_name": "Yellow Vein Mosaic Disease",
+                    "botanical_name": "Bhendi Yellow Vein Virus (BYVMV)",
+                    "symptoms": "The infected leaves shows alternate patches of green and yellow. Veins become clear and chlorotic.  With the progress of disease the veins become conspicuous and both vein and vein lets become thick. In advance stage the stems and leaf stalk become distorted. Fruits are yellowish green in color and small in size.",
+                    "cause": "Virus",
+                    "comments": "Transmitted by white fly Bemisia tabaci. It causes huge loss if disease occur at early stage of crop.",
+                    "management": "Use resistant cultivars. Sow disease free certified seeds. Roughing of infected plants. Follow crop rotation. Keep the field free from weeds. Control vector with suitable insecticides."
+                },
+                {
+                    "disease_name": "Aphids (Green peach aphid, Potato aphid, etc.)",
+                    "botanical_name": "Myzus persicae\nMacrosiphum euphorbiae",
+                    "symptoms": "Small soft bodied insects on underside of leaves and/or stems of plant; usually green or yellow in color, but may be pink, brown, red or black depending on species and host plant; if aphid infestation is heavy it may cause leaves to yellow and/or distorted, necrotic spots on leaves and/or stunted shoots; aphids secrete a sticky, sugary substance called honeydew which encourages the growth of sooty mold on the plants",
+                    "cause": "Insects",
+                    "comments": "Distinguishing features include the presence of cornicles (tubular structures) which project backwards from the body of the aphid; will generally not move very quickly when disturbed",
+                    "management": "If aphid population is limited to just a few leaves or shoots then the infestation can be pruned out to provide control; check transplants for aphids before planting; use tolerant varieties if available; reflective mulches such as silver colored plastic can deter aphids from feeding on plants; sturdy plants can be sprayed with a strong jet of water to knock aphids from leaves; insecticides are generally only required to treat aphids if the infestation is very high - plants generally tolerate low and medium level infestation; insecticidal soaps or oils such as neem or canola oil are usually the best method of control; always check the labels of the products for specific usage guidelines prior to use"
+                },
+                {
+                    "disease_name": "Armyworms (Beet armyworm, Western striped armyworm)",
+                    "botanical_name": "Spodoptera exigua\nSpodoptera praefica",
+                    "symptoms": "Singular, or closely grouped circular to irregularly shaped holes in foliage; heavy feeding by young larvae leads to skeletonized leaves; shallow, dry wounds on fruit; egg clusters of 50-150 eggs may be present on the leaves; egg clusters are covered in a whitish scale which gives the cluster a cottony or fuzzy appearance; young larvae are pale green to yellow in color while older larvae are generally darker green with a dark and light line running along the side of their body and a pink or yellow underside",
+                    "cause": "Insect",
+                    "comments": "Insect can go through 3–5 generations a year",
+                    "management": "Organic methods of controlling armyworms include biological control by natural enemies which parasitize the larvae and the application of Bacillus thuringiensis; there are chemicals available for commercial control but many that are available for the home garden do not provide adequate control of the larvae"
+                },
+                {
+                    "disease_name": "Corn earworm",
+                    "botanical_name": "Helicoverpa zea",
+                    "symptoms": "Larvae damage leaves, buds, flowers and pods; young caterpillars are cream-white in color with a black head and black hairs; older larvae may be yellow-green to almost black in color with fine white lines along their body and black spots at the base of hairs; eggs are laid singly on both upper and lower leaf surfaces and are initially creamy white but develop a brown-red ring after 24 hours and darken prior to hatching",
+                    "cause": "Insect",
+                    "comments": "Adult insect is a pale green to tan, medium sized moth; insect is also very damaging pests of corn; insect overwinters as pupae in the soil",
+                    "management": "Monitor plants for eggs and young larvae and also natural enemies that could be damaged by chemicals; Bacillus thuringiensis or Entrust SC may be applied to control insects on organically grown plants; appropriate chemical treatment may be required for control in commercial plantations"
+                },
+                {
+                    "disease_name": "Cucumber beetles (Western striped cucumber beetle, Western spotted cucumber beetle, Banded cucumber beetle)",
+                    "botanical_name": "Acalymma vittata\nDiabrotica undecimpunctata\nDiabrotica balteata",
+                    "symptoms": "Stunted seedling; damaged leaves, stems and/or petioles; reduced plant stand; plants may exhibit symptoms of bacterial wilt; scars on fruit caused by beetle feeding damage; adult beetles are brightly colored with either a green-yellow background and black spots or alternating black and yellow stripes",
+                    "cause": "Insect",
+                    "comments": "Beetles overwinter in soil and leaf litter and emerge from soil when temperatures begin to reach and exceed  12.7°C (55°F)",
+                    "management": "Monitor new planting regularly for signs of beetle; floating row covers can be used to protect the plants from damage but will need to be removed at bloom to allow bees to pollinate plants; applications of kaolin clay can be effective for management of small beetle populations; application of appropriate insecticides may be necessary"
+                },
+                {
+                    "disease_name": "Loopers (Cabbage looper)",
+                    "botanical_name": "Trichoplusia ni",
+                    "symptoms": "Large or small holes in leaves; damage often extensive; caterpillars are pale green with a white lines running down either side of their body; caterpillars are easily distinguished by the way they arch their body when moving; eggs are laid singly, usually on the lower leaf surface close to the leaf margin, and are white or pale green in color",
+                    "cause": "Insect",
+                    "comments": "Insects overwinter as pupae in crop debris in soil; adult insect id a dark colored moth; caterpillars have a wide host range",
+                    "management": "Looper populations are usually held in check by natural enemies; if they do become problematic larvae can be hand-picked from the plants; an organically acceptable control method is the application of Bacillus thuringiensis which effectively kills younger larvae; chemical sprays may damage populations of natural enemies and should and should be selected carefully"
+                },
+                {
+                    "disease_name": "Thrips (Melon thrips)",
+                    "botanical_name": "Thrips palmi",
+                    "symptoms": "If population is high leaves may be distorted; leaves are covered in coarse stippling and may appear silvery; leaves speckled with black feces; insect is small (1.5 mm) and slender and best viewed using a hand lens; adult thrips are pale yellow to light brown and the nymphs are smaller and lighter in color",
+                    "cause": "Insect",
+                    "comments": "Thrips can produce several generations of insect per year",
+                    "management": "Avoid planting next to onions, garlic or cereals where very large numbers of thrips can build up; use reflective mulches early in growing season to deter thrips; apply appropriate insecticide if thrips become problematic"
+                },
+                {
+                    "disease_name": "Root-knot nematode",
+                    "botanical_name": "Meloidogyne",
+                    "symptoms": "Galls on roots which can be up to 3.3 cm (1 in) in diameter but are usually smaller; reduction in plant vigor; yellowing plants which wilt in hot weather",
+                    "cause": "Nematode",
+                    "comments": "Galls can appear as quickly as a month prior to planting; nematodes prefer sandy soils and damage in areas of field or garden with this type of soil is most likely",
+                    "management": "Plant resistant varieties if nematodes are known to be present in the soil ;check roots of plants mid-season or sooner if symptoms indicate nematodes; solarizing soil can reduce nematode populations in the soil and levels of inoculum of many other pathogens"
+                },
+                {
+                    "disease_name": "Spider mites (Two-spotted spider mite)",
+                    "botanical_name": "Tetranychus urticae",
+                    "symptoms": "Leaves stippled with yellow; leaves may appear bronzed; webbing covering leaves; mites may be visible as tiny moving dots on the webs or underside of leaves, best viewed using a hand lens; usually not spotted until there are visible symptoms on the plant; leaves turn yellow and may drop from plant",
+                    "cause": "Arachnid",
+                    "comments": "Spider mites thrive in dusty conditions; water-stressed plants are more susceptible to attack",
+                    "management": "In the home garden, spraying plants with a strong jet of water can help reduce buildup of spider mite populations; if mites become problematic apply insecticidal soap to plants; certain chemical insecticides may actually increase mite populations by killing off natural enemies and promoting mite reproduction"
+                }
+            ]
+        },
+        {
+            "name": "Oil palm",
+            "diseases": [
+                {
+                    "disease_name": "Bacterial bud rot",
+                    "botanical_name": "Erwinia",
+                    "symptoms": "Parts of spear leaf petiole or rachi turning brown; discoloration may be associated with a wet rot; spear leaf may be wilted and/or chlorotic; leaves may be collapsing and hanging from the crown; infection of the bud results in buds becoming rotten and putrid, leading to death of the palm",
+                    "cause": "Bacteria",
+                    "comments": "Disease occurs in oil palm in Colombia, Costa Rica, Democratic republic of Congo, Ecuador, Nicarauga, Nigeria, Panama and Southeast Asia",
+                    "management": "Plant oil palm varieties with resistance to the bacteria; rotting tissue on spear leaves should be removed to prevent bacteria spreading to buds; palm buds can be protected using copper-based fungicides"
+                },
+                {
+                    "disease_name": "Ganoderma butt rot",
+                    "botanical_name": "Ganoderma",
+                    "symptoms": "Reduced growth of palm, pale green foliage, older fronds turning chlorotic or necrotic; drooping fronds; on mature oil palms, spear leaves do not open, seedlings may exhibit a one-sided chlorosis or necrosis of the lower fronds; cross-sections of lower portion of trunk reveal a discoloration and softening of the central area and a distinct boundary is present between healthy and diseased tissue",
+                    "cause": "Fungi",
+                    "comments": "Serious disease in Far East",
+                    "management": "There are currently no fungicides recommended for protecting palms from Ganoderma butt rot; palms should be monitored closely for signs of disease, especially if a palm has died or been removed nearby as fungi can colonize old stumps and release spores; infected trees should be removed as once symptoms are present in foliage, a large portion of the trunk is already rotted and the palm is unstable; do not replant palm in soil where an infected palm has been removed"
+                },
+                {
+                    "disease_name": "Oil palm wilt",
+                    "botanical_name": "Fusarium oxysporum",
+                    "symptoms": "Symptoms of the disease vary with age of host; disease can affect seedlings and mature trees; seedlings exhibit retarded growth, reduced leaf size, chlorosis of older leaves and tip necrosis; field palms may exhibit a bright yellow chlorosis of leaves in the mid-canopy which starts at the tip pf the pinnae and moves towards petioles before affecting adjacent fronds and spreading to older leaves in the canopy; in older palms, lower leaves wilt and dry out and fronds break close to the base of the trunk; new fronds are chlorotic and stunted; the palm shows decline on one side and develops symptoms in the lower canopy; infection spreads rapidly upwards and infects the bud, killing the palm",
+                    "cause": "Fungus",
+                    "comments": "Fungus infests palms through the root system",
+                    "management": "International quarantine procedures have limited the spread of the disease between major palm  oil producing countries; dead or dying trees should be felled and burned to prevent spread in plantations; if palms are replanted then new palm should be planted a distance of 3.9 m from infested stump; soil within a 3 m radius of infested stumps should be treated with dazomet and covered for a period of 30 days"
+                },
+                {
+                    "disease_name": "Pestalotiopsis leaf spot",
+                    "botanical_name": "Pestalotiopsis",
+                    "symptoms": "Tiny black spots on leaves which enlarge into 2 mm long elliptical, elongated lesions; lesions may expand and be surrounded by black tissue and chlorosis between lesions; lesions may be present on leaf petioles and rachis",
+                    "cause": "Fungi",
+                    "comments": "Disease has been reported worldwide",
+                    "management": "If palm is severely diseased, it should be removed from plantation and destroyed; palms should be planted with adequate spacing to allow air to circulate between trees; remove weeds from around palms; applications appropriate broad spectrum foliar fungicides can help to protect the palms from disease"
+                },
+                {
+                    "disease_name": "Mealybugs (Pineapple mealybug)",
+                    "botanical_name": "Dysmicoccus brevipes",
+                    "symptoms": "Flattened oval to round disc-like insect covered in waxy substance on tree branches; insects attract ants which may also be present; insect colony may also be associated with growth of sooty mold due to fungal colonization of sugary honeydew excreted by the insect; symptoms of direct insect damage not well documented",
+                    "cause": "Insect",
+                    "comments": "Insects have a wide host range; often tended by ants which farm them for their sugary honeydew secretions; transmit Cocoa swollen shoot virus",
+                    "management": "Mealybugs can potentially be controlled by natural enemies such as lady beetles but are commonly controlled using chemicals; chemical pesticides may also decrease populations of natural enemies leading to mealybug outbreaks"
+                },
+                {
+                    "disease_name": "Rhinoceros beetle",
+                    "botanical_name": "Oryctes rhinoceros",
+                    "symptoms": "V-shaped cuts in palm fronds or holes in leaf midribs caused by beetles boring into crown to feed; adult insect is a large black beetle with a curved spine on its head; larvae are creamy white grubs with brown heads and 3 sets of prolegs at the anterior (head) end",
+                    "cause": "Insect",
+                    "comments": "Beetles are nocturnal and fly at night; also a damaging pest of oil palm",
+                    "management": "Destroy any decaying logs in plantation by chopping and burning to kill any larvae that may be inside; remove any dead trees from plantation and destroy by burning; plant a cover crop to deter egg laying by females as they do not lay eggs in areas covered by vegetation; hooked wire can be used to extract larvae that are boring into young crowns"
+                }
+            ]
+        },
+        {
+            "name": "Onion",
+            "diseases": [
+                {
+                    "disease_name": "Black mold",
+                    "botanical_name": "Aspergillus niger",
+                    "symptoms": "Post-harvest black discoloration at neck; lesions on outer scales; black streaks under outer dry scales; entire surface of bulb turning black and shriveling",
+                    "cause": "Fungus",
+                    "comments": "Wash hands thoroughly after coming into contact with fungus",
+                    "management": "Treat seeds with appropriate fungicide prior to planting to reduce rot in mature bulbs; avoid bruising bulbs during and after harvest; storing at temeperatures below 15°C (59°F) prevents mold from spreading but it will resume once temperature increases"
+                },
+                {
+                    "disease_name": "Botrytis leaf blight",
+                    "botanical_name": "Botrytis squamosa",
+                    "symptoms": "Small white lesions with light green halos which may expand slightly as they age; in prolonged periods of moisture fungus may develop rapidly and cause leaf blighting",
+                    "cause": "Fungus",
+                    "comments": "Disease emergence favors high humidity and warm temperatures; fungus survives on piles of crop debris or in soil; older leaves more susceptible to blighting than younger leaves",
+                    "management": "Plant onions in single rows allowing at least 30 cm between plants to promote good air circulation and quick drying of foliage after rain; time irrigation to allow plants time to dry out sufficiently; apply appropriate fungicide sprays when plants have at least five true leaves and early symptoms of disease"
+                },
+                {
+                    "disease_name": "Downy mildew",
+                    "botanical_name": "Peronospora destructor",
+                    "symptoms": "Pale spots or elongated patches on leaves; gray-purple fuzzy growth on leaf surface; leaves turning pale then yellow; leaf tips collapsing",
+                    "cause": "Fungus",
+                    "comments": "Disease emergence favored by cool temperatures and leaf wetness",
+                    "management": "Avoid planting infected sets; rotate crops to non-allium species for 3-4 years; plant in well-draining areas and do not overcrowd plants; destroy all infected crop debris; apply appropriate foliar fungicides taking care to apply thoroughly to waxy leaves"
+                },
+                {
+                    "disease_name": "Fusarium basal plate rot",
+                    "botanical_name": "Fusarium oxysporum",
+                    "symptoms": "Curving, yellow or necrotic leaves; necrosis begins at leaf tips and moves downward; wilting plants; infected bulbs may be brown and watery with rot spreading from stem plate to basal leaves; stem plates may have brown discoloration",
+                    "cause": "Fungus",
+                    "comments": "Disease emergence favors moderate to high temperatures",
+                    "management": "Rotate with non-susceptible crops for at least 4 years, plant resistant onion varieties"
+                },
+                {
+                    "disease_name": "Fusarium damping-off",
+                    "botanical_name": "Fusarium oxysporum",
+                    "symptoms": "Rotting seeds that are covered in mold; discolored root tips which may be pink, tan, yellow, red or black; slowly growing seedlings which wilt and die",
+                    "cause": "Fungus",
+                    "comments": "Fungus survives in soil and disease emergence is favored by moist to wet soil",
+                    "management": "Plant only disease-free seed; treat seed with fungicide; rotate crops with cereals or grasses to reduce levels of pathogen in soil; steam treatment or fumigation of soil can help reduce levels of Fusarium in the soil"
+                },
+                {
+                    "disease_name": "Pink root",
+                    "botanical_name": "Phoma terrestris",
+                    "symptoms": "Light pink roots which darken and turn purple; roots become transparent and water soaked; plant may look like it has a nutrient deficiency; infected seedling may die; stunted plants with undersized, shriveled bulbs",
+                    "cause": "Fungus",
+                    "comments": "Fungus colonizes plant through root tips; fungus can survive in soil down to a depth of 45 cm (17.7 in)",
+                    "management": "Disease is most severe when onions are planted continuously or in a 1-year rotation, a rotation of 3-6 years is preferred; plant more resistant varieties; solarization and/or fumigation can help reduce the levels of pathogen in the soil"
+                },
+                {
+                    "disease_name": "Purple blotch",
+                    "botanical_name": "Alternaria porri",
+                    "symptoms": "Small water-soaked lesions lesions on leaves or stalk with white centers; which enlarge to become zonate and brown to purple in color with red or purple margin surrounded by yellow zone; large lesions may coalesce and girdle leaf, killing any tissue between the lesions and the leaf tip; severely infected foliage may die",
+                    "cause": "Fungus",
+                    "comments": "Disease emergence favored by wet foliage, with sporulation occuring during the night during periods of high humidity",
+                    "management": "Cultural controls include long rotations with non-hosts and the reduction of leaf wetness by planting in well-draining soil and timing irrigation to allow plants to dry adequately during the day; some fungicides are effective at controlling the disease but should be rotated for optimal control"
+                },
+                {
+                    "disease_name": "Rust",
+                    "botanical_name": "Puccinia porri",
+                    "symptoms": "Small white flecks on leaves and stems which develop into circular or elongated orange pustules; severe infestations can cause leaves to yellow and die",
+                    "cause": "Fungus",
+                    "comments": "Favors high humidity but low rainfall; spores can be transported over long distances by wind",
+                    "management": "No resistance known; use only disease-free seed and plant in well-draining soil; control weeds around crop; apply appropriate protective fungicide"
+                },
+                {
+                    "disease_name": "Smut",
+                    "botanical_name": "Urocystis colchici",
+                    "symptoms": "Dark, thickened lareas on cotyledons (seed leaves) which may become large and cause leaves to bend downwards; raised blisters may be present on the base of scales in older plants; lesion mature and become covered in black powdery fungal masses; plant growth stunted; death of plant occurs within 3-4 weeks",
+                    "cause": "Fungus",
+                    "comments": "Smut can persist in soil for many years and is mainly introduced through infected sets and transplants; spores can be spread by wind, on equipment or in irrigation water",
+                    "management": "No resistance to disease known in onion; plant onions during periods which promote rapid growth; plant only health sets and transplants - if smut is present in the soil they will not become infected"
+                },
+                {
+                    "disease_name": "White rot",
+                    "botanical_name": "Sclerotium cepivorum",
+                    "symptoms": "Older leaves yellowing; stunted growth; death of all leaves; fluffy white growth on base of bulb which spreads up bulb to storage leaves",
+                    "cause": "Fungus",
+                    "comments": "Fungus can survive in soil for 20 years and is one of the most damaging diseases of Allium crops worldwide, causing major crop losses",
+                    "management": "Fungicide treatment may not be effective at controlling white rot under conditions which are favorable to the fungi's development and control may have to rely on cultural methods: avoid transferring soil or plant material between sites; treat seeds with hot water prior to planting; use a long term rotation with non-allium crops; apply appropriate fungicides if available"
+                },
+                {
+                    "disease_name": "Leaf streak and bulb rot",
+                    "botanical_name": "Pseudomonas viridiflava",
+                    "symptoms": "Water-soaked, dark green oval lesions or streaks on leaves; tipburn of leaves; dark spots on wrapper scales of bulbs; reddish-brown discoloration of inner scales; rot developing in ring-like pattern",
+                    "cause": "Bacterium",
+                    "comments": "Little is known about the pathogen; greatest damage occurs during winter; rapid spread of disease on infected plants is promoted by rainfall",
+                    "management": "Avoid fertilizing plants during winter' apply appropriate bacteriacidial sprays"
+                },
+                {
+                    "disease_name": "Onion yellow dwarf",
+                    "botanical_name": "Pythium irregulare",
+                    "symptoms": "Yellow streaks on bases of of first leaves; all leaves which emerge after infection have yellow streak or are completely yellow; leaves may be flattened or crinkled; bulbs are undersized; flower stalks yellow and twisted; flower clusters small and seed is of poor quality",
+                    "cause": "Virus",
+                    "comments": "Transmitted by several species of aphid, including the peach aphid; virus is not spread via seed or pollen",
+                    "management": "Controlling aphids by applying insecticides is not effective due to the short amount of time aphid needs to transmit virus; other control methods include: planting sets or transplants which were produced in areas free of virus; growing plants from seed; removing any infected plants and planting more tolerant varieties"
+                },
+                {
+                    "disease_name": "Pythium seed rot (Damping-off)",
+                    "botanical_name": "Pythium irregulare",
+                    "symptoms": "Seeds water-soaked, mushy and decomposing; infected roots are gray and water-soaked; seedlings that have already emerged prior to infection collapse and die; older plants that become infected become severely stunted",
+                    "cause": "Fungus",
+                    "comments": "Disease emergence favors high soil moisture and cool temperatures",
+                    "management": "Control of disease is dependent on minimizing soil moisture: break up compacted soil; plant in well-draining areas or raised beds; treat seeds with appropriate fungicides prior to planting"
+                },
+                {
+                    "disease_name": "Bulb mites",
+                    "botanical_name": "Rhizoglyphus",
+                    "symptoms": "Stunted plant growth; reduced stand; bulbs rotting in ground or in storage; pest is a cream-white, bulbous mite <1 mm in length, which resembles a pearl with legs",
+                    "cause": "Arachnid",
+                    "comments": "Damage to plants by bulb mites allows secondary invasion by other pathogens and can cause bulb rots",
+                    "management": "Do not plant successive crops of onion or garlic in same location; allow field to fallow to ensure that any residual organic matter decomposes completely - crop residues can harbor mite populations; treating garlic seed cloves with hot water prior to planting may help reduce mite populations"
+                },
+                {
+                    "disease_name": "Leafminers",
+                    "botanical_name": "Lyriomyza",
+                    "symptoms": "Thin, white, winding trails on leaves; heavy mining can result in white blotches on leaves and leaves dropping from the plant prematurely; early infestation can cause yield to be reduced; adult leafminer is a small black and yellow fly which lays its eggs in the leaf; larave hatch and feed on leaf interior",
+                    "cause": "Insects",
+                    "comments": "Mature larvae drop from leaves into soil to pupate; entire lifecycle can take as little as 2 weeks in warm weather; insect may go through 7 to 10 generations per year",
+                    "management": "Check transplants for signs of leafminer damage prior to planting; remove plants from soil immediately after harvest; only use insecticides when leafminer damage has been identified as unnecessary spraying will also reduce populations of their natural enemies"
+                },
+                {
+                    "disease_name": "Onion maggot",
+                    "botanical_name": "Delia antiqua",
+                    "symptoms": "Stunted or wilting seedlings; plant will commonly break at soil line if an attempt is made to pull it up; if infestation occurs when plants are bulbing, bulbs will be deformed and susceptible to storage rots after harvest; adult insect is a greyish fly which lays white, elongate eggs around the base of the plant; the larvae that emerge from the eggs are tiny and white and bore into the onion plant; mature larvae are about 1 cm (0.4 in) long with feeding hooks",
+                    "cause": "Insect",
+                    "comments": "Females can lay several hundred eggs during their 2-4 week lifespan; insect overwinters as pupae in the soil",
+                    "management": "of onion maggots is heavily reliant on good sanitation; all onion bulbs should be removed at the end of the season as maggots will die without a food source; commercial onion growers must often rely on the application of appropriate granular insecticides and, in some cases, insecticide sprays are also required; home gardeners should try to remove any volunteer wild onion and chive plants as these can act as an infection source; floating row covers may provide protection by preventing females from laying eggs around the plants"
+                },
+                {
+                    "disease_name": "Thrips (Onion thrips, Western flower thrips)",
+                    "botanical_name": "Thrips tabaci\nFrankliniella occidentalis",
+                    "symptoms": "Discolored, distorted tissue; scarring of leaves; severly infected plants may have a silvery appearance",
+                    "cause": "Insect",
+                    "comments": "Thrips are most damaging when they feed on onions at the early bulbing stage of development; both onion thrips and western flower thrips have an extensive host range and can be introduced to onion from other plants",
+                    "management": "Natural enemies include some species of predatory mite, pirate bugs and lacewings; avoid planting onion in close proximity to grain fields as thrips populations build up on these plant in the spring; overhead irrigation of plants may help reduce thrips numbers; apply appropriate insecticides at first sign of thrips damage"
+                }
+            ]
+        },
+        {
+            "name": "Almond",
+            "diseases": [
+                {
+                    "disease_name": "Almond brownline and decline",
+                    "botanical_name": "Peach yellow leafroll mycoplasma",
+                    "symptoms": "Stunted tree growth; drooping/wilting of leaves; brown necrotic areas under bark",
+                    "cause": "Phytoplasma",
+                    "comments": "Most common on young trees; grow trees from pathogen free stock",
+                    "management": "Stunted trees should be removed and replaced; plant only certified pathogen free trees"
+                },
+                {
+                    "disease_name": "Almond kernel shrivel",
+                    "botanical_name": "Peach yellow leafroll phytoplasma",
+                    "symptoms": "Late blooming; new growth stunted; paler, smaller leaves; kernels of nuts shriveled at harvest",
+                    "cause": "Phytoplasma",
+                    "comments": "Most common where peach rootstock has been used for grafting; remove infected trees",
+                    "management": "Remove diseased trees; plant only certified trees"
+                },
+                {
+                    "disease_name": "Almond leaf scorch; golden death",
+                    "botanical_name": "Xylella fastidiosa",
+                    "symptoms": "Chlorotic leaf margins; necrosis of leaf margins beginning toward tip of leaf and spreading to base; patches of necrotic tissue with chlorotic margin",
+                    "cause": "Bacterium",
+                    "comments": "More of tree will be affected each year; bacterium can infect rye, blackberry and nettle and if these plants are nearby they may act as reservoir; transmitted by leafhoppers and spittle bugs",
+                    "management": "If discovered early (while disease affects only one branch) disease can be removed by pruning primary scaffold 5 to 10 ft below symptoms; older infections may require the tree to be removed and replaced"
+                },
+                {
+                    "disease_name": "Crown gall",
+                    "botanical_name": "Agrobacterium tumefaciens",
+                    "symptoms": "Galls of various sizes on roots and root crown below the soil line; galls may occasionally grow on the trunk; galls are initially light colored bulges which grow larger and darken; galls may be soft and spongy or hard; if galling is severe and girdles the trunk then young trees are weakened due to constricted vascular tissue; trees may be stunted and rarely die",
+                    "cause": "Bacterium",
+                    "comments": "The bacterium enters host plants through wounds and causes plant cells to proliferate and cells to be undifferentiated, leading to the formation of a gall",
+                    "management": "Only plant disease-free nursery stock; plant trees in well-draining soils; avoid wounding the plants as much as possible; fresh wounds can be treated with a biocontrol agent (Agrobacterium tumefaciens K84), if available, to prevent the bacterium colonizing"
+                },
+                {
+                    "disease_name": "Alternaria leaf spot",
+                    "botanical_name": "Alternaria alternata",
+                    "symptoms": "Light brown lesions on leaves which expand to form circular lesions on leaf blade or semi-circular lesions on margin; leaves may develop light yellow necrosis which dries and turns tan in center of leaves; infected leaves dropping from tree; fruit does not drop from tree",
+                    "cause": "Fungus",
+                    "comments": "Disease emergence favors warm weather",
+                    "management": "Late spring treatment with appropriate fungicide if Alternaria symptoms are present"
+                },
+                {
+                    "disease_name": "Anthracnose",
+                    "botanical_name": "Colletotrichum acutatum",
+                    "symptoms": "Blighting of blossom; dieback of limbs; death of foliage with leaves remaining attached; nuts with orange lesions",
+                    "cause": "Fungus",
+                    "comments": "All cultivars susceptible; occurs more often in warm, wet conditions",
+                    "management": "Fungicide treatment and cultural practices required to control disease. Orchards with a history of anthracnose infections should be sprayed at 5-10% bloom and applications should be repeated every 10 to 14 days; dead infected branches should be pruned; low angle nozzles should be used in orchards with spray irrigation to prevent wetting of leaves"
+                },
+                {
+                    "disease_name": "Brown Rot Blossom Blight",
+                    "botanical_name": "Monolinia laxa",
+                    "symptoms": "Blighted blossoms; stigma and anther of flowers turning brown and necrotic; blossom collapsing and turning brown; light brown powdery fungal masses may be visible on infected flowers; gummy exudate at base of flowers; cankers forming on twigs associated with blossoms",
+                    "cause": "Fungus",
+                    "comments": "Disease emergence favors frequent rainfall during bloom",
+                    "management": "Fungicide application at 5-10% bloom and full bloom to protect flowers; one application at full bloom usually sufficient if there is no rainfall; two or three applications should be made if bloom is accompanied by rainfall"
+                },
+                {
+                    "disease_name": "Hull rot",
+                    "botanical_name": "Rhizopus stolonifer",
+                    "symptoms": "Tan lesions on hulls which enlarge and cause fruit to shrivel; dark gray spore masses visible between hull and shell; leaves in proximity to infected fruit may wither and curl; leaf death occurs on side of shoot closest to infected fruit",
+                    "cause": "Fungus",
+                    "comments": "Hulls of fruit are susceptible to hull rot until they are dry",
+                    "management": "of irrigation should be practiced. Reduce irrigation at hull split; demethylation inhibitor and quinone outside inhibitor fungicide may be applied in combination with irrigation management"
+                },
+                {
+                    "disease_name": "Shot hole",
+                    "botanical_name": "Wilsonomyces carpophilus",
+                    "symptoms": "Circular purplish spots on foliage which enlarge and turn chlorotic then tan; drying of lesions causes missle of lesion to drop out of leaf causing small holes to develop",
+                    "cause": "Fungus",
+                    "comments": "Spores transmitted in water; disease more common in wet conditions",
+                    "management": "If fungal fruiting structures are present in Fall (visible under a hand lens as small black spots in the center of lesions) then a fall treatment with fungicide is required; fungicide should be applied before wet periods to protect tree"
+                },
+                {
+                    "disease_name": "Verticillium wilt (Blackheart)",
+                    "botanical_name": "Verticillium dahliae",
+                    "symptoms": "Leaves on one side of tree turning yellow; wilting early in season",
+                    "cause": "Fungus",
+                    "comments": "Fungus overwinters on soil, recurring each year; problematic if orchard is interplanted with other susceptible plants e.g. cotton, tomato, melon",
+                    "management": "Orchards should not be intercropped with susceptible plants e.g. cotton, tomatoes or melons; solarization or fumigation of soil prior to planting may be used to kill fungi in soil"
+                },
+                {
+                    "disease_name": "Pavement ant (Southern fire ant)",
+                    "botanical_name": "Tetramorium caespitum\nSolenopsis xyloni, S. molesta",
+                    "symptoms": "Hollowed out nuts on ground",
+                    "cause": "Insects",
+                    "comments": "Prevalent in orchards using drip or spray irrigation",
+                    "management": "Monitor orchard for ants in April and May; apply ant baits before harvest to manage high ant populations; remove nuts from orchard floor as soon as possible"
+                }
+            ]
+        },
+        {
+            "name": "Carrot",
+            "diseases": [
+                {
+                    "disease_name": "Alternaria leaf blight",
+                    "botanical_name": "Alternaria dauci",
+                    "symptoms": "Green-brown water-soaked lesions on leaves which enlarge and turn dark brown or black; lesions may coalesce causing leaves to yellow and die; lesions may be present on petioles",
+                    "cause": "Fungus",
+                    "comments": "Disease emergence favored by wet foliage and warm weather; rain and fog enhance the development of the disease; fungus survives in soil on crop debris but is killed when the debris decomposes",
+                    "management": "Disease can be difficult to control in wet, warm conditions; apply appropriate fungicides when first symptoms appear or as a protective measure in humid areas; treat seeds with fungicide or hot water prior to planting; apply gibberellic acid to carrot foliage to promote upright growth and promote air circulation through canopy"
+                },
+                {
+                    "disease_name": "Black rot",
+                    "botanical_name": "Alternaria radicina",
+                    "symptoms": "Damping-off of seedlings; root and crown necrosis; blighted foliage; lower portion of petioles black and necrotic; black ring around petiole attachment black, sunken lesions on taproot",
+                    "cause": "Fungi",
+                    "comments": "Disease is spread through infected seed and can survive in soil for up to 8 years",
+                    "management": "Black rot is difficult to control and can survive in the soil for long periods of time: practice long crop rotations ; plow crop residue into soil immediately after harvest; plant resistant varieties; plant only pathogen-free seed; treat seeds with hot water prior to planting"
+                },
+                {
+                    "disease_name": "Cercospora leaf blight",
+                    "botanical_name": "Cercospora carotae",
+                    "symptoms": "Small, necrotic flecks on leaves which develop a chlorotic halo and expand into tan brown necrotic spots; lesions coalesce and cause leaves to wither, curl and die",
+                    "cause": "Fungus",
+                    "comments": "Disease can be introduced through infested seed and spread by wind or water splash; symptoms usually occur on younger foliage first",
+                    "management": "Plant only pathogen-free seed; rotate crops; plow crop debris into soil ofter harvest; apply appropriate fungicide sprays"
+                },
+                {
+                    "disease_name": "Cottony rot (Sclerotinia rot)",
+                    "botanical_name": "Sclerotinia sclerotiorum",
+                    "symptoms": "Small, water-soaked, soft lesions on crown and roots; white fluffy fungal growth all over affected tissues; soft and decaying tissue developing",
+                    "cause": "Fungus",
+                    "comments": "Fungus can survive in soil for up to 10 years; disease emergence is favored by soils that are held close to saturation for periods in excess of 2 weeks",
+                    "management": "Cultural practices play an important role in the control of cottony rot as there are no resistand carrot varieties: in carrot fields, the use of drip irrigation 5-8 cm below the soil surface can provide good control; deep plowing of soil and trimming back carrot foliage to promote air circulation can also be useful; fungicides may be warranted in periods of extended cool, damp weather"
+                },
+                {
+                    "disease_name": "Downy mildew",
+                    "botanical_name": "Peronospora umbellifarum",
+                    "symptoms": "Yellow spots on upper surface of leaves; white fluffy growth on underside of leaves; lesions become darker as the mature",
+                    "cause": "Fungus",
+                    "comments": "Disease affects young, tender leaves; disease emergence and spread is favored by prolonged leaf wetness",
+                    "management": "Plant pathogen-free seed; do not overcrowd plants; rotate crops with non-umbelliferous varieties"
+                },
+                {
+                    "disease_name": "Powdery mildew",
+                    "botanical_name": "Erisyphe heraclei",
+                    "symptoms": "Powdery growth on leaves, petioles flowers stalks and bracts; leaves becoming chlorotic; severe infections can cause flowers to become distorted",
+                    "cause": "Fungus",
+                    "comments": "Fungus can spread long distances in air; disease emergence is favored by high humidity and moderate temperatures; infection is most severe in shaded areas",
+                    "management": "Plant tolerant varieties; avoid excess fertilization; protective fungicide applications provide adequate protection; sulfur application can be used in infection occurs early in season"
+                },
+                {
+                    "disease_name": "Bacterial leaf blight",
+                    "botanical_name": "Xanthomonas campestris",
+                    "symptoms": "Small, angular, yellow spots on leaves which expand into irregularly shaped, brown, water-soaked lesions with a yellow halo; centers of lesions dry out, become brittle; leaves may become curled or distorted; flower stalks may develop elongated lesions that exude a bacterial ooze; infected umbels may be blighted",
+                    "cause": "Bacterium",
+                    "comments": "Bacteria can be spread by splashing irrigation water or rain or on contaminated equipment",
+                    "management": "Plant pathogen-free seed; avoid using sprinkler irrigation; apply appropriate bactericides if available"
+                },
+                {
+                    "disease_name": "Soft rot",
+                    "botanical_name": "Erwinia carotovora\nErwinia chrysanthemi\nPseudomonas marginalis",
+                    "symptoms": "Sunken dull orange lesions on taproot which causes tissue to collapse and become soft",
+                    "cause": "Bacteria",
+                    "comments": "Bacteria thrive in oxygen depleted plant tissue; disease emergence requires long periods of water saturated soil; bacteria enter plants through wounds",
+                    "management": "Control relies on the avoidance of conditions conducive to bacterial infection: plant carrots in well-draining soils; allow plants to dry before irrigating again; avoid wounding plants during harvest to prevent pst harvest development of disease; disinfect all equipment regularly"
+                },
+                {
+                    "disease_name": "Cavity spot",
+                    "botanical_name": "Pythium",
+                    "symptoms": "Sunken, elliptical, gray lesions across the root; outer layer of root ruptures and develops dark, elongated lesions; small vertical cracks may form on the cavities",
+                    "cause": "Fungi",
+                    "comments": "Fungi can persist in soil for several years and disease outbreaks are associated with wet soils; flooded soil increases the number of cavities formed",
+                    "management": "Some cultural practices can control the disease: avoid planting in fields/areas known to previously had carrot spot; do not over-fertilize plants; application(s) of appropriate fungicide can provide adequate control"
+                },
+                {
+                    "disease_name": "Damping-off",
+                    "botanical_name": "Pythium",
+                    "symptoms": "Soft, rotting seeds which fail to germinate; rapid death of seedling prior to emergence from soil; collpase of seedlings after they have emerged from the soil caused by water-soaked reddish lesions girdling the stem at the soil line",
+                    "cause": "Fungi",
+                    "comments": "Damping-off diseases favor conditions which slow seed germination; fungi can be spread in water, contaminated soil or on equipment",
+                    "management": "Avoid planting carrots in poorly draining, cool, wet soil; planting in raised beds will help with soil drainage; plant high quality seed that germinates quickly; treat seeds with fungicide prior to planting to eliminate fungal pathogens"
+                },
+                {
+                    "disease_name": "Aphids (Willow-carrot aphid)",
+                    "botanical_name": "Cavariella aegopodii",
+                    "symptoms": "Small soft bodied insects on underside of leaves and/or stems of plant; usually green or yellow in color; if aphid infestation is heavy it may cause leaves to yellow and/or distorted, necrotic spots on leaves and/or stunted shoots; aphids secrete a sticky, sugary substance called honeydew which encourages the growth of sooty mold on the plants",
+                    "cause": "Insect",
+                    "comments": "Distinguishing features include the presence of cornicles (tubular structures) which project backwards from the body of the aphid; will generally not move very quickly when disturbed; willow-carrot aphid will also attack parnip, parsley and celery",
+                    "management": "If aphid population is limited to just a few leaves or shoots then the infestation can be pruned out to provide control; check transplants for aphids before planting; use tolerant varieties if available; reflective mulches such as silver colored plastic can deter aphids from feeding on plants; sturdy plants can be sprayed with a strong jet of water to knock aphids from leaves; insecticides are generally only required to treat aphids if the infestation is very high - plants generally tolerate low and medium level infestation; insecticidal soaps or oils such as neem or canola oil are usually the best method of control; always check the labels of the products for specific usage guidelines prior to use"
+                },
+                {
+                    "disease_name": "Carrot rust fly",
+                    "botanical_name": "Psila rosae",
+                    "symptoms": "Surface scarring of taproot caused by tunnels; tunnels are filled with a rust colored mush; adult insect is a small, dark colored fly; larvae are white maggots approximately 1 cm (0.3 in) long",
+                    "cause": "Insect",
+                    "comments": "Carrot rust fly also attacks parsnip, celery and other Umbelliferous crops which will also need to be protected if carrot rust fly is a problem",
+                    "management": "Use of row covers will help to protect plants from damage but they must be installed before adult fly lays eggs on plants; harvest carrots in blocks; do not leave any carrots in the ground over winter to reduce overwintering sites"
+                },
+                {
+                    "disease_name": "Carrot weevil",
+                    "botanical_name": "Listronotus oregonensis",
+                    "symptoms": "Irregular dark grooves in zig-zag pattern on roots; leaves of plant may yellow; adult insect is a dark colored beetle; larvae are white to pinkish white C-shaped grubs with a yellow-brown head",
+                    "cause": "Insect",
+                    "comments": "Adult weevils overwinter in crop debris remaining in the ground; larvae feed for approximately 2 weeks before pupating in the soil; insect undergoes several generations each year",
+                    "management": "Remove all debris from Umbelliferous crops (e.g. parsley, dill, celerey etc.) to reduce sites where weevil can survive and persist; try to rotate Umbelliferous crops to different areas of the home garden each year to reduce survival of larvae in soil"
+                },
+                {
+                    "disease_name": "Flea beetle",
+                    "botanical_name": "Systena blanda",
+                    "symptoms": "Small holes or pits in leaves that give the foliage a characteristic “shothole” appearance; young plants and seedlings are particularly susceptible; plant growth may be reduced; if damage is severe the plant may be killed; the pest responsible for the damage is a small (1.5–3.0 mm) dark colored beetle which jumps when disturbed; the beetles are often shiny in appearance",
+                    "cause": "Insect",
+                    "comments": "Younger plants are more susceptible to flea beetle damage than older ones; older plants can tolerate infestation; flea beetles may overwinter on nearby weed species, in plant debris or in the soil; insects may go through a second or third generation in one year",
+                    "management": "In areas where flea beetles are a problem, floating row covers may have to be used prior to the emergence of the beetles to provide a physical barrier to protect young plants; plant seeds early to allow establishment before the beetles become a problem - mature plants are less susceptible to damage; trap crops may provide a measure of control - cruciferous plants are best; application of a thick layer of mulch may help prevent beetles reaching surface; application on diamotecoeus earth or oils such as neem oil are effective control methods for organic growers; application of insecticides containing carbaryl, spinosad, bifenthrin and permethrin can provide adequate control of beetles for up to a week but will need reapplied"
+                },
+                {
+                    "disease_name": "Root-knot nematodes (Stubby root nematodes, Needle nematodes)",
+                    "botanical_name": "Meloidogyne",
+                    "symptoms": "Forked, distorted or stunted taproots; reduced stand; reduced yield",
+                    "cause": "Nematodes",
+                    "comments": "Root-knot nematodes are most damaging to carrot; nematodes are microscopic and not visible to the naked eye",
+                    "management": "Leaving land to fallow when not planting can be effective at reducing nematode numbers; solarizing soil for 4-6 week period to a depth of 6 inches can temporarily reduce nematode populations; new carrot varieties are currently being developed that are resistant to nematodes"
+                }
+            ]
+        },
+        {
+            "name": "Ginger",
+            "diseases": [
+                {
+                    "disease_name": "Bacterial wilt",
+                    "botanical_name": "Ralstonia solanacearum",
+                    "symptoms": "Green leaves infected with the pathogen roll and curl (\"green wilt\"); leaves turn yellow then necrotic; plants become stunted and die; rhizomes are discolored and water-soaked and may be rotting inside.",
+                    "cause": "Bacteria",
+                    "comments": "Disease is spread via movement of infested soil; bacteria survive in the soil on plant debris.",
+                    "management": "Plant ginger in well draining soils where ginger had not previously been grown; plant only pathogen free seed; plant ginger on hills to aid soil drainage and promote air flow around the rhizome; rotate ginger with non-hosts of bacterial wilt."
+                },
+                {
+                    "disease_name": "Dry rot",
+                    "botanical_name": "Fusarium and Pratylenchus complex",
+                    "symptoms": "Initially the lower leaves exhibit yellow tips followed by complete yellowing. As the disease progress, the upper leaves become yellow. Later the leaves become dry and whole plant appears stunted.\r\nInfected rhizome shows brownish ring particularly at cortical region.",
+                    "cause": "Fungus and Nematode",
+                    "comments": "Favors waterlogged fields. Always occurs in patches. When comparing to soft rot the dry rot infected stem won't come off with a gentle pull.",
+                    "management": "Treating seed with Bordeaux mixture prior to planting and solarizing the soil can help to reduce the incidence of the disease."
+                },
+                {
+                    "disease_name": "Rhizome rot/Soft rot/Pythium rot",
+                    "botanical_name": "Pythium aphanidermatum\n P. vexans\nP. myriotylum",
+                    "symptoms": "Stunted plant growth; yellow leaves and stems; brown discoloration of water conducting tissue within stem; root system rotted, mushy and turning black; rotted rhizome gives off a foul odor.",
+                    "cause": "Fungi",
+                    "comments": "Disease favors warm, moist soils; spread primarily through use of infected seed pieces which may not show any outward signs of disease.",
+                    "management": "Plant ginger in well-draining soils or on hills created by tilling; do not plant any seed pieces which show symptoms of disease; seed pieces can be treated with hot water (50°C/122°F for 10 min) or appropriate fungicides prior to planting; destroy all crop debris after harvest; keep fields weed free; do not grow ginger for more than one year in same area."
+                },
+                {
+                    "disease_name": "Chinese rose beetle",
+                    "botanical_name": "Adoretus sinicus",
+                    "symptoms": "\"Shot-hole\" appearance of leaves; entire leaf consumed with the exception of the leaf veins; adult insect is a reddish-brown beetle which feeds on plants at night.",
+                    "cause": "Insect",
+                    "comments": "Chinese rose beetles are nocturnal.",
+                    "management": "Chinese rose beetles are attracted to dim light and repelled by bright light, shining bright light on plants may help deter them from feeding; covering young plants with e.g. floating row covers can help to protect plants until they are old enough to withstand attacks by the beetle."
+                },
+                {
+                    "disease_name": "Root-knot nematode and Burrowing nematode",
+                    "botanical_name": "Meloidogyne",
+                    "symptoms": "Root knot nematode: Water soaked lesions on roots; Galls on roots which can be up to 3.3 cm (1 in) in diameter but are usually smaller; reduction in plant vigor; yellowing plants which wilt in hot weather.\r\n\r\nBurrowing nematode: The appearance of small, water-soaked shallow lesions on rhizome which later turn brown. This lesion merges together and leads to rotting. Infected plants show yellow leaves with less number of shoots and stunted growth.",
+                    "cause": "Nematode",
+                    "comments": "Galls or lesions can appear as quickly as a month prior to planting; nematodes prefer sandy soils and damage in the areas of the field or garden with this type of soil is most likely.",
+                    "management": "Plant resistant varieties if nematodes are known to be present in the soil ;check roots of plants mid-season or sooner if symptoms indicate nematodes; solarizing soil can reduce nematode populations in the soil and levels of inoculum of many other pathogens. Treating rhizome with hot water (51°C for 10 minutes) before planting reduces burrowing nematode problem."
+                }
+            ]
+        },
+        {
+            "name": "Orange",
+            "diseases": [
+                {
+                    "disease_name": "Anthracnose",
+                    "botanical_name": "Colletotrichum gloeosporioides",
+                    "symptoms": "Leaves dropping prematurely; leaves covered in dark fungal spores; red to green or black streaks on the mature fruits",
+                    "cause": "Fungus",
+                    "comments": "Disease common during wet Springs or long periods of wet weather late in season",
+                    "management": "If disease is damaging then appropriate fungicides should be applied to whole tree"
+                },
+                {
+                    "disease_name": "Armillaria root rot (Mushroom root rot)",
+                    "botanical_name": "Armillaria mellea",
+                    "symptoms": "Trees may wilt suddenly and collapse or decline slowly; leaves become chlorotic and drop from tree; if large parts of root are destroyed then whole canopy is affected; trunk may have area of rotting bark at the base; lesions on the trunk resemble Phytophthora gummosis; clusters of mushrooms may be present at the bottom of the tree and fan shaped mycelial mats are often present between the bark and the wood",
+                    "cause": "Fungus",
+                    "comments": "Healthy trees are usually infected by infected pieces of wood or tree stumps which have been left in the ground after an orchard is cleared",
+                    "management": "Disease is difficult to control once it becomes established in an orchard; affected trees showing signs of decline should be removed along with as much of the roots system as possible; area where infected tree was should not be replanted with health citrus for a period of at least one year; fumigating soil can help to reduce soil inoculum but is not always completely effective"
+                },
+                {
+                    "disease_name": "Black root rot",
+                    "botanical_name": "Thielaviopsis basicola",
+                    "symptoms": "Small brown-black lesions on roots which may coalesce and turn entire root black; root cortex may slough off to reveal the vascular tissue below; leaves of plant may be chlorotic",
+                    "cause": "Fungus",
+                    "comments": "Serious disease of glasshouse grown citrus trees; pathogen usually drops to non-damaging levels after tree is transplanted to the field",
+                    "management": "Keep glasshouses well lit and warm during winter to encourage vigorous root growth; use good quality potting soil which provides goo aeration"
+                },
+                {
+                    "disease_name": "Blast",
+                    "botanical_name": "Pseudomonas syringae",
+                    "symptoms": "Water-soaked or black lesions on leaf petioles;which rapidly expand along the leif midrib; cankers on twigs and branches; twigs may be girdles and die; leaves turning black and dying; black lesions may be present on fruit",
+                    "cause": "Bacterium",
+                    "comments": "Symptoms most severe on south facing side of tree exposed to winds",
+                    "management": "In areas where disease is severe, copper fungicides should be applied in Fall and WInter prior to the first rains"
+                },
+                {
+                    "disease_name": "Brown rot",
+                    "botanical_name": "Phytophthora",
+                    "symptoms": "Water-soaked lesions on fruit close to maturation; leather tan to dark brown lesions on fruit; lesions with a pungent smell; leaves, twigs and flowers may be turning brown",
+                    "cause": "Oomycete",
+                    "comments": "Disease emergence favored by cool, wet conditions",
+                    "management": "Cultural control methods should focus on reducing leaf wetness e.g. mowing around trees to prevent grasses growing too long, proper irrigation management, pruning branches hanging low to the ground etc.; if fruit become infected, harvest should be delayed to allow all infected fruit to drop to the ground and minimizing contamination in the harvest; applications of copper fungicides to foliage can help protect the trees"
+                },
+                {
+                    "disease_name": "Melanose",
+                    "botanical_name": "Diaporthe citri",
+                    "symptoms": "Small brown sunken spots which become raised and surrounded by a yellow halo; lesions eventually turn corky in texture; severe infections can cause newly emerging leaves to be crinkled and distorted; if infection of fruit occurs soon after petal fall, the pathogen causes large lesions on the fruit surface which may coalesce to produce large patches; late infection of fruit causes discrete pustules on the fruit",
+                    "cause": "Fungus",
+                    "comments": "Disease is spread short distance through splashing water or over longer distances by wind",
+                    "management": "If young trees become infected, it is possible to control the disease by pruning but this is not usually feasible for older trees; fungicides must be applied frequently in order to control the disease"
+                },
+                {
+                    "disease_name": "Citrus canker",
+                    "botanical_name": "Xanthomonas axonopodis",
+                    "symptoms": "Raised lesions on leaves, often at leaf margin or tip; lesions may also be present on twigs and fruits; young lesions are usually surrounded by yellow halo; depressed brown craters formed from collapse of lesions",
+                    "cause": "Bacterium",
+                    "comments": "Bacteria survive in lesions; the main method of spread is via wind driven rain; bacteria may enter through pruning wounds",
+                    "management": "If the disease is introduced to an area, all infected trees should be removed and destroyed; in areas where disease is endemic, windbreaks can help to reduce disease severity; cultural control of the disease should focus on controlling leaf miner populations, utilizing wind breaks and applications of copper sprays"
+                },
+                {
+                    "disease_name": "Huanglongbing (Citrus greening)",
+                    "botanical_name": "Candidatus",
+                    "symptoms": "Leaf symptoms of citrus greening include yellowing of one limb or one area of canopy, yellowing of leaf veins; blotchy mottling and/or green islands (spots) surrounded by completely yellow leaf tissue; twig and limbs begin to die back; fruits may drop prematurely and are often mishappen and lopsided; fruit has a bitter, salty taste",
+                    "cause": "Bacteria",
+                    "comments": "History\nOrigins and spread\r\nHuanglongbing, or citrus greening, was first reported from Southern China in 1919 by American botanist Otto August Reinking who described a “yellow shoot” disease of citrus while evaluating diseases of economic plants in Southern China. A subsequent field survey conducted between 1941 and 1955 on citrus plants in the provinces of Guangdong, Fujian and Jiangx by Chinese plant pathologist Lin Kongxiang (Kung Hsiang) determined that that the disease likely originated in Chaozhou county in Guangdong as early as the 1870s. Lin adopted the name the local farmers had given to the disease of “huang long bing”, which translates to “yellow dragon disease”, a reference to the yellow coloration of new shoots on the infected trees. By 1936 Huanglongbing was considered a serious disease of citrus in China and it subsequently spread across Southeast Asia reaching Indonesia in 1948 and Taiwan in 1950 before spreading to the Philippines, Thailand and Malaysia in the 1950s, 60s and 70s respectively. The disease has been known by various names in different countries - “greening” in South Africa, “mottle leaf” in the Philippines, “dieback” in India and “vein phloem degeneration” in Indonesia - but in 1995 the disease was officially named Huanglongbing by the International Organization of Citrus Virologists (IOCV) and this name is now widely used to describe the disease in Africa, America and Asia. \r\n\r\nBiology and ecology\r\nThe organism that causes Huanglongbing is a Gram-negative bacterium that is limited to the plant phloem - the plant system responsible for the delivery of sugars from the leaves to the growing parts of the plant. The bacteria involved have so far not been isolated and cultured but the disease is believed to be caused by bacteria belonging to the genus Candidatus Liberibacter. It is believed that there are at least two different forms of the disease, an African heat-sensitive form, L. africanus which survives in cool areas with temperatures below 30-32 C, and an Asian heat-tolerant form which occurs in areas where temperatures greatly exceed 30C. A third species, L. asiaticus, found in .A third species, L. americanus was detected in citrus trees in Sao Paulo, Brazil but there is presently little information on its climatic requirements. As this species is found in the same areas as L. asiaticus it seems likely that is has similar requirements. \r\n\r\nTransmission\r\nHuanglongbing can be transmitted by citrus psyllids or by grafting. The Asian citrus psyllid, Diaphorina citri is responsible for the spread of the disease in Asia and Oceania, Brazil and North America whereas the African citrus psyllid, Trioza erytreae is the main vector in Africa and Madagascar. Both psyllid species are present the Indian Ocean islands of Reunion and Mauritius,\r\n\r\nCitrus psyllids\r\nCitrus psyllids are tiny (3-4 mm) sap-sucking insects that excrete a sticky, sugary substance called honeydew. Both the Asian and African citrus psyllids are mottled brown in color but the Asian citrus psyllid possesses a brown head and the African species has a black head. Adult citrus psyllids will jump and/or fly for a short distance when they are disturbed. They are usually found on the undersides of leaves, often in high numbers. When a psyllid feeds on an infected plant, it acquires the disease after 15 to 30 minutes and feeding and is able to transmit the disease to new hosts after a period of 21 days. In order to transmit the disease successfully, the psyllids need only feed on a new host for a period of 15 minutes in order for successful transmission to occur. It is hypothesized that the bacterium multiplies within the body of the psyllid prior to transmission but this theory requires validation through experiments. \r\n\r\nGrafting\r\nAlthough the primary method of spread of the Huanglongbing bacterium is via the movement of citrus psyllids, the disease can also be transmitted through grafting practices. The ability of Huanglongbing to be transmitted by grafting was first demonstrated by Lin Kongxiang through experimental work which was published in 1956. The disease in not transmitted at high rates through grafting as as not all buds on infected trees contain the bacterium.",
+                    "management": "Control\n(i) Cultural control\r\nOnce a tree becomes infected with HLB, it cannot be cured. Control is therefore reliant on preventing the disease occurring in the first place and this is achieved through strict quarantining to prevent the introduction of citrus psyllids to areas which are currently free of the pest. Areas which are subject to quarantine have restrictions placed on the movement of citrus plants, fruit, equipment and items made from citrus. \r\n\r\nInfected trees should be removed as quickly as possible from plantations and destroyed. Identification of infected trees should be achieved through several surveys to ensure that infected trees which are not yet showing symptoms are identified. In Florida, the recommendation is to scout groves at least 4 times a year for disease symptoms.\r\n\r\n(ii) Control of citrus psyllids\r\nCitrus psyllid populations can be controlled through the application of chemical sprays. Insecticides have proved very effective at controlling T. eryreae in South Africa where systemic insecticides are applied to the tree at the base of the trunk. In areas of the USA, Citrus health management areas (CHMAs) have been created to encourage neighbouring growers to work together to prevent the disease. Control strategies which have been implemented by the program include scouting, mapping and large-scale spraying to control citrus psyllids."
+                },
+                {
+                    "disease_name": "Stubborn disease",
+                    "botanical_name": "Spiroplasma citri",
+                    "symptoms": "Stunted trees; leaves shorter and broader, cupped and upright; may be chlorotic or have a mottled appearance; stunted, malformed fruits and low yield",
+                    "cause": "Bacterium",
+                    "comments": "Transmitted by leafhoppers; can cause serious losses in hot, dry conditions",
+                    "management": "Plant only material from disease-free budwood; if disease is endemic to the are then nursery trees should be grown in an enclosure to protect the trees from vectors; if a young orcahrd becomes infected, it should be removed and replanted with healthy material"
+                },
+                {
+                    "disease_name": "Phytophthora gummosis",
+                    "botanical_name": "Phytophthora",
+                    "symptoms": "Sap oozing from cracks in bark; bark cracking, drying and falling off; lesions girdling trunk; severely infected trees have pale green leaves with yellow veins",
+                    "cause": "Oomycete",
+                    "comments": "Disease can develop rapidly in moist, cool conditions; spread by water splash",
+                    "management": "Only plant disease-free nursery stock; plant trees in well-draining soil and avoid injuries to bark on trunk; trunk wraps can provide protection from freezing"
+                },
+                {
+                    "disease_name": "Tristeza disease",
+                    "botanical_name": "Toxoptera aurantii",
+                    "symptoms": "Light green foliage; poor new growth; leaves may be dropping from tree; young trees blooming early; severely infected trees are stunted and bushy in appearance with chlorotic leaves and brittle twigs; some strains of the virus cause elongated pits in the trunk and branches which give the wood a rope-like appearance",
+                    "cause": "Virus",
+                    "comments": "Disease spread from infected grafting material or by aphids",
+                    "management": "Quarantine procedures are used to control tristeza and prevent the pathogen from entering areas which are currently free of the disease"
+                },
+                {
+                    "disease_name": "Aphids (Black citrus aphid)",
+                    "botanical_name": "Toxoptera aurantii",
+                    "symptoms": "Leaves curling; leaves and twigs covered in sticky substance which may be growing sooty mold; trees may show symptoms of tristeza (see entry); insects are small and soft bodied  and are black in color",
+                    "cause": "Insect",
+                    "comments": "Aphids transmit tristeza virus on citrus",
+                    "management": "Aphid numbers tend to naturally decline as leaves harden off but can be a problem on young trees or varieties which continually produce flushes of new growth; pesticides are not generally recommended due to resistance and trees can withstand a high degree of leaf curling"
+                },
+                {
+                    "disease_name": "Asian citrus psyllid",
+                    "botanical_name": "Diaphorina citri",
+                    "symptoms": "Tips of leaves in new growth flushes are twisted and affected leaves do not expand properly; trees may show symptoms of citrus greening (see disease entry); the insect is tiny (4 mm in length) and has a mottled brown appearance; it feeds by inserting its mouthpaarts into the plant and sucking plant sap and as well as injecting toxins into the plant, it also transmits the deadly citrus greening disease; the insect feeds at an angle to the plant which makes it resemble thorns on the plant leaves",
+                    "cause": "Insect",
+                    "comments": "The Asian citrus psyllid attacks all varieties of citrus",
+                    "management": "In the home garden, frequent applications of organic pesticides can be used to control the Asian citrus psyllid; applications must be frequent to be effective as these chemicals are usually very short lived in the environment; parasitic wasps have been released in California to control the psyllid in residential areas; in commercial orange production insecticides should be applied to control the insects as the spread of citrus greening has the potential to devastate commercial citrus production"
+                }
+            ]
+        },
+        {
+            "name": "Pawpaw",
+            "diseases": [
+                {
+                    "disease_name": "Anthracnose and charcoal spot",
+                    "botanical_name": "Colletotrichum gleosporoides",
+                    "symptoms": "Small water-soaked lesions of fruit during ripening; circular sunken lesions with light brown margins.",
+                    "cause": "Fungus\n \n\nIs caused by Glomerellacingulata, primarily infecting the fruit. The disease appears as small water-soaked circular spots that enlarge into brown-black sunken lesions as the fruit ripens. Fungicidal sprays can control this disease. A 20-minute hot-water dip (45°C) reduces post-harvest decay.",
+                    "comments": "Fungi spread by wind and rain; disease emergence favored by high temperature and humidity; disease can have a serious impact on refrigerated fruit for export.",
+                    "management": "Appropriate protective fungicides should be applied; dipping fruits in hot water at 48°C for 20 minutes reduces the incidence of the disease."
+                },
+                {
+                    "disease_name": "Black rot",
+                    "botanical_name": "Mycosphaerella caricae",
+                    "symptoms": "Black sunken rot on young fruits originating from stem end or contact with a leaf; young fruit withering and dropping from plant; small, brown sunken lesions with light brown margins on ripening fruit.",
+                    "cause": "Fungus",
+                    "comments": "Fungi enters fruit through wounds.",
+                    "management": "Appropriate protective fungicides should be applied; dipping fruits in hot water at 48°C for 20 minutes reduces the incidence of the disease."
+                },
+                {
+                    "disease_name": "Black spot",
+                    "botanical_name": "Asperisporium caricae",
+                    "symptoms": "Circular water-soaked or brown lesions on older leaves; centers of lesions become bleached as they mature; leaves curling and turning brown; raised lesions on trunks; sunken circular lesions on fruit.",
+                    "cause": "Fungus",
+                    "comments": "Disease spread by wind and rain; disease emergence favored by cool weather interspersed with moisture from dew or rain.",
+                    "management": "Disease may require applications of appropriate fungicides for adequate control."
+                },
+                {
+                    "disease_name": "Cercospora black spot",
+                    "botanical_name": "Cercospora papayae",
+                    "symptoms": "Tiny black dots on fruit which enlarge to 3 mm across; spots are slightly raised and although indistinct on unripe green fruit, become visible on ripening to yellow; lesions on leaves are irregular in shape and gray-white in color; if infestation is severe, leaves may turn yellow and necrotic and drop from plant.",
+                    "cause": "Fungus",
+                    "comments": "Disease usually enters orchard from infected papaya leaves in adjacent orchards.",
+                    "management": "Applications of appropriate protective fungicides at intervals of 14 to 28 days provide satisfactory control of the disease."
+                },
+                {
+                    "disease_name": "Powdery mildew",
+                    "botanical_name": "Oidium caricae-papayae",
+                    "symptoms": "Infect all parts of tree. The infected leaves show white mycelial growth commonly on under surface , particularly near leaf veins. Some time white mycelial growth can also seen on upper leaf surface. The infected area becomes light green and chlorotic (lesions) with dark green margin.",
+                    "cause": "Fungus",
+                    "comments": "Powdery mildew pathogens are saprophytic need living host for survival and growth. The pathogen is favored by high humidity and low sunlight.",
+                    "management": "Remove the infected parts and dispose them properly. Avoid irrigating the trees by sprinkler. Provide proper nutrition to trees to withstand powdery mildew infection. If the disease is severe, apply suitable fungicides."
+                },
+                {
+                    "disease_name": "Bacterial canker and decline",
+                    "botanical_name": "Erwinia",
+                    "symptoms": "Angular water-soaked lesions on leaves; lesions coalesce and spread along leaf veins; witling leaves, particularly at top of canopy; water-soaked lesion and cankers on stem; cankers girdle stem and cause plant to collapse; small water-soaked lesions on green fruit.",
+                    "cause": "Bacteria",
+                    "comments": "Bacteria survive in lesions and cankers.",
+                    "management": "Dipping fruits in hot water at 48°C for 20 minutes reduces the incidence of the disease and is currently the only method of control."
+                },
+                {
+                    "disease_name": "Internal yellowing",
+                    "botanical_name": "Enterobacter cloacae",
+                    "symptoms": "Flesh of ripe fruit discolored yellow; discolored areas soft with spreading margins; rotting odor.",
+                    "cause": "Bacterium",
+                    "comments": "Disease found in Hawaii.",
+                    "management": "Dipping fruits in hot water at 48°C for 20 minutes reduces the incidence of the disease and is currently the only method of control."
+                },
+                {
+                    "disease_name": "Bunchy top",
+                    "botanical_name": "Rickettsia",
+                    "symptoms": "Chlorosis of young leaves; water-soaked spots on petioles and stems; petioles rigid, horizontal and shortened; thickened leaf blades that cup downward; internodes shorten and growth stops resulting in a bunchy appearance to the plants.",
+                    "cause": "Bacteria",
+                    "comments": "Transmitted by leaf hoppers.",
+                    "management": "Use of tolerant varieties of papaya is currently the only method of control recommended."
+                },
+                {
+                    "disease_name": "Papaya ringspot",
+                    "botanical_name": "Phytophthora palmivora",
+                    "symptoms": "Dark green rings on fruit which may be slightly sunken and become less distinct as the fruit ripens; fruits may have uneven bumps; leaves often exhibit a bright yellow mosaic pattern and new leaves are small and plant growth is stunted.",
+                    "cause": "Virus",
+                    "comments": "Virus is transmitted by several aphid species.",
+                    "management": "Infected plants should be removed and destroyed to prevent spread of the virus; new planting materials should be free of the virus; intercropping papaya with a non-host such as corn can help to reduce the incidence of the disease in papaya orchards by providing aphid vectors with an alternative feeding site."
+                },
+                {
+                    "disease_name": "Phytophthora fruit rot  (Stem rot)",
+                    "botanical_name": "Phytophthora palmivora",
+                    "symptoms": "Water-soaked lesions on unripe fruit that oozes latex; withering fruit; water-soaked lesions on leaf scars of fruit bearing stem; mature fruit covered in white mycelium.",
+                    "cause": "Oomycete",
+                    "comments": "Fungi survive in soil and enter through wounds in stem; disease often emerges after hurricane damage.",
+                    "management": "Disease can be controlled through the use of appropriate protective fungicides such as mancozeb or copper sulfate; root rot in seedlings can be prevented by planting in holes filled with soil in which papaya has never been grown - by the time the roots extend out of the added soil the plant is no longer susceptible to the disease."
+                },
+                {
+                    "disease_name": "Papaya mealybug",
+                    "botanical_name": "Paracoccus marginatus",
+                    "symptoms": "Flattened oval to round disc-like insect covered in cottony substance on tree; chlorosis, plant stunting, leaf deformation, early leaf and fruit drop insects attract ants which may also be present; insect colony may also be associated with growth of sooty mold due to fungal colonization of sugary honeydew excreted by the insect.",
+                    "cause": "Insect",
+                    "comments": "Insects have a wide host range; often tended by ants which farm them for their sugary honeydew secretions; transmit Cocoa swollen shoot virus.",
+                    "management": "Mealybugs can potentially be controlled by natural enemies such as lady beetles but are commonly controlled using chemicals; chemical pesticides may also decrease populations of natural enemies leading to mealybug outbreaks."
+                },
+                {
+                    "disease_name": "Scale insects (White peach scale)",
+                    "botanical_name": "Pseudaulacaspis pentagona",
+                    "symptoms": "Scale insects cause damage by feeding on twigs, branches and fruit, injecting toxins into the plant as they do so; if the infestation is heavy, gumming may occur on the bark and twigs or entire branches can be killed; insects are flattened discs, or \"scales\" with no visible legs; scales produce a white waxy coating which eventually turns black (black cap stage).",
+                    "cause": "Insect",
+                    "comments": "Scale insects overwinter in the black cap stage; winged adult males mate with females which retain their eggs inside the body until they hatch.",
+                    "management": "Populations are often kept in check by natural enemies, including predacious beetles and some wasps - although broad-spectrum insecticides may result in outbreaks of scale by killing off populations of beneficial insects; trees can be sprayed with horticultural oils when dormant which effectively kill scales without damaging natural enemies."
+                }
+            ]
+        },
+        {
+            "name": "Plantain",
+            "diseases": [
+                {
+                    "disease_name": "Anthracnose",
+                    "botanical_name": "Colletotrichum musae",
+                    "symptoms": "Brown spots on fruit peel; large brown to black areas; black lesions on green fruit",
+                    "cause": "Fungus",
+                    "comments": "Wet conditions promote growth and spread of disease; spread by rainfall through plant or banana bunch",
+                    "management": "Commercially produced fruit should be washed and dipped in fungicide prior to shipping; protect fruit from injury; remove flower parts which can harbour fungus"
+                },
+                {
+                    "disease_name": "Black sigatoka",
+                    "botanical_name": "Mycosphaerella fijiensis",
+                    "symptoms": "Red/brown flecks or spots on underside or topside of leaves; spots with dark or yellow border and grey centre; death of leaf surface; bunch not developing",
+                    "cause": "Fungus",
+                    "comments": "Currently the most important disease of banana; promoted by high moisture and spores spread by wind",
+                    "management": "Export plantations may require regular fungicide applications; increase plant spacing to improve air circulation and reduce humidity; remove leaves with mature spots"
+                },
+                {
+                    "disease_name": "Panama disease  (Fusarium wilt)",
+                    "botanical_name": "Fusarium oxysporum",
+                    "symptoms": "Yellowing of older leaves; splitting of leaf sheaths; leaves wilting and buckling; death of entire canopy",
+                    "cause": "Fungus",
+                    "comments": "Lethal disease; spread in soil or running water",
+                    "management": "Use disease free seed pieces; currently no effective treatment once plants are infected"
+                },
+                {
+                    "disease_name": "Rhizome rot",
+                    "botanical_name": "Erwinia carotovora",
+                    "symptoms": "Pseudostem breaks from rhizome; rhizome will not germinate; internal tissue yellow/brown and watery",
+                    "cause": "Bacteria",
+                    "comments": "Bacteria live in soil and enter plant through wounds; disease encouraged by wet, humid conditions",
+                    "management": "Select only high quality, disease-free rhizomes fro propagation; disinfect all tools used for propagation regularly; allow seed pieces to dry before planting"
+                },
+                {
+                    "disease_name": "Bunchy top",
+                    "botanical_name": "Ralstonia solanacearum",
+                    "symptoms": "Dark green streaks in leaves; chlorotic and upturned leaf margins; leaves brittle and erect; plant has a ‘bunchy top’; no bunches produced",
+                    "cause": "Virus",
+                    "comments": "Aphid transmitted; when infected symptoms appear after two more leaves are produced",
+                    "management": "Plant less susceptible varieties; destroy infected plants to prevent spread of disease"
+                },
+                {
+                    "disease_name": "Moko disease",
+                    "botanical_name": "Ralstonia solanacearum",
+                    "symptoms": "Older leaves chlorotic, wilted and collapsing; spreads to entire canopy; collapse of pseudostem",
+                    "cause": "Bacterium",
+                    "comments": "Can be spread root to root or by insects or human activities such as machete pruning",
+                    "management": "Plantations should be regularly monitored for presence of disease; if Moko is present, male buds should be removed and all tools thoroughly disinfected; infected plants may need to be destroyed along with any neighbouring plants"
+                },
+                {
+                    "disease_name": "Banana aphid",
+                    "botanical_name": "Pentalonia nigronervosa",
+                    "symptoms": "Deformed plants with curled, shriveled leaves; if infestation is severe, galls may form on leaves; colonies of aphids usually present in crown of plant at base of pseudostem or between the outer leaf sheaths; aphid is soft-bodied and red-brown to almost black in color",
+                    "cause": "Insect",
+                    "comments": "Colonies are often tended by ants; populations can build rapidly during warm weather",
+                    "management": "Chemical control does not provide protection against transmission of Banana bunchy top and direct feeding damage is not usually severe enough to warrant spraying; insecticidal soaps can help control aphid populations; plants infected with bunch top should be removed and destroyed to prevent spread"
+                },
+                {
+                    "disease_name": "Banana weevil",
+                    "botanical_name": "Cosmopolites sordidus",
+                    "symptoms": "Reduced plant growth; reduced fruit production; tunnels may be visible in corm as rounded holes up to 8 mm in diameter; plants wilting and toppling over; destruction of root system; plant death; adult insect is a hard-shelled beetle which is almost black in color; adult is commonly found between leaf sheaths; larvae are   creamy-white, legless grubs with a red-brown head",
+                    "cause": "Insect",
+                    "comments": "Insects are nocturnal, feeding and mating only at night;",
+                    "management": "Plant only healthy plant material, do not plant if any tunnels are visible; hot water treatment of clean trimmed suckers can be used to kill off many eggs and grubs; applications of neem powder can reduce weevil numbers; appropriate insecticides applied at time of planting can help control weevil numbers"
+                },
+                {
+                    "disease_name": "Coconut scale",
+                    "botanical_name": "Aspidiotus destructor",
+                    "symptoms": "Small, flat, whitish scales, usually on undersides of leaves but may also attach to petioles, peduncles and fruit; plant tissue discolored and yellowing",
+                    "cause": "Insect",
+                    "comments": "Coconut scale attacks a large number of hosts including coconut and other palm species, avocado, cassava, papaya, guava and sugar cane; most common in tropical regions",
+                    "management": "Biological control is the best way to manage scale, with lady beetles providing the most effective protection"
+                }
+            ]
+        },
+        {
+            "name": "Rice",
+            "diseases": [
+                {
+                    "disease_name": "Bacterial leaf streak",
+                    "botanical_name": "Xanthomonas oryzae",
+                    "symptoms": "Small, water-soaked streaks between leaf veins which are initially dark green and then turn translucent; streaks grow larger, coalesce and turn light brown in color; tiny beads of yellow colored bacterial exudate are common on the surface of the streaks; leaves turn brown and then gray-white in color before they die",
+                    "cause": "Bacterium",
+                    "comments": "Bacteria survive on infected seed and straw; bacteria may enter the plant through wounds; bacterial exudate can be spread in irrigation water; emergence of the disease is favored by high humidity and high temperatures; bacterial leaf streak is widespread in tropical Asia and West Africa",
+                    "management": "Control of bacterial leaf streak is dependent on the use of resistant rice varieties and on planting of treated seed"
+                },
+                {
+                    "disease_name": "Leaf scald",
+                    "botanical_name": "Microdochium oryzae",
+                    "symptoms": "As name suggest we will see scalded appearance on leaves. The lesion is marked with different zone from alternating light tan and dark brown from leaf tips or edges. As the leaves mature the lesion is with light brown halos. Margins and leaf tips are translucent.",
+                    "cause": "Fungus",
+                    "comments": "The symptoms may vary depends on cultivar, growth stage and plant density. The disease is severe in Latin America and West Africa.",
+                    "management": "Grow resistant varieties. Treat the seeds with suitable fungicide. Apply only recommended quantity of nitrogen fertilizer in split dose."
+                },
+                {
+                    "disease_name": "Rice Bacterial blight",
+                    "botanical_name": "Xanthomonas oryzae pv. oryzae",
+                    "symptoms": "Water-soaked stripes on leaf blades; yellow or white stripes on leaf blades; leaves appear grayish in color; plants wilting and rolling up; leaves turning yellow; stunted plants; plant death; youngest leaf on plant turning yellow",
+                    "cause": "Bacterium",
+                    "comments": "One of the most important diseases of rice; disease found in tropical and temperate regions; greatest economic impact in Asia",
+                    "management": "Bacterial blight can be effectively controlled by planting resistant rice varieties; avoid excessive nitrogen fertilization; plow stubble and straw into soil after harvest"
+                },
+                {
+                    "disease_name": "Bakanae",
+                    "botanical_name": "Fusarium moniliforme",
+                    "symptoms": "Seedlings are elongated, slender and pale; seedlings are stunted and chlorotic; death of seedlings; abnormal elongation of older plants which often makes them visible as they grow taller than uninfected plants in the field; sterile plants which do not produce panicles or produce empty panicles",
+                    "cause": "Fungus",
+                    "comments": "Disease transmitted through infected seed; disease emergence favored by high temperatures",
+                    "management": "Treating seeds with appropriate fungicides prior to planting can be very effective at controlling the disease; less susceptible rice varieties should be grown in areas where fungicide-treated seed is not available"
+                },
+                {
+                    "disease_name": "Brown spot",
+                    "botanical_name": "Cochliobolus miyabeanus",
+                    "symptoms": "Circular, brown lesions on seedling; distorted primary and/or secondary leaves on seedlings; black discoloration of roots; death of seedlings; circular or oval lesions with gray center and reddish-brown margin on older plants; death of large areas of leaves; brown or black spots on grain; reduced number of grains; reduced kernel weight",
+                    "cause": "Fungus",
+                    "comments": "Occurs wherever rice is grown; fungus overwinters on plant debris; disease emergence favored by water on surfaces of plant",
+                    "management": "Ensure plants are provided with correct nutrients and avoid water stress; chemical seed treatments are effective at reducing the incidence of the disease"
+                },
+                {
+                    "disease_name": "False smut",
+                    "botanical_name": "Ustilaginoidea virens",
+                    "symptoms": "The pathogen infect the rice plant during flowering stage and causes chalkiness of grain. The individual grains were covered with orange fungal mass in the beginning, later turns into greenish velvet color during sporulation stage and finally into charcoal black during spore maturation stage. It infect only few grains in spikelet. Recorded disease loss up to 75% in severe incidence. It also reduces market value of rice.",
+                    "cause": "Fungus",
+                    "comments": "It is seed born disease and may also affect seed germination.",
+                    "management": "Treat seeds with hot water (52 C) for 10 min. Roughing the infected plants from field and from harvested grains. Keep the rice field and surrounding clean. Use resistant varieties. Maintain humidity in field by alternate wetting and drying."
+                },
+                {
+                    "disease_name": "Narrow leaf spot (Cercospora leaf spot)",
+                    "botanical_name": "Cercospora oryzae",
+                    "symptoms": "Short, elliptical or linear brown lesions on leaves; necrosis of leaves; blotchy pattern on leaves; premature ripening of kernels",
+                    "cause": "Fungus",
+                    "comments": "Disease occurs in major rice growing regions in tropical and sub-tropical Asia, Africa, Australia, North America, South America and Central America",
+                    "management": "There are no chemical controls currently recommended for the treatment of the disease; treating seeds with hot water or appropriate fungicides prior to planting can reduce the incidence of the disease"
+                },
+                {
+                    "disease_name": "Rice blast",
+                    "botanical_name": "Magnaporthe grisea",
+                    "symptoms": "Lesions on all parts of shoot; white to green or gray diamond-shaped lesions with dark green borders; death of leaf blades; black necrotic patches on culm; rotting panicles",
+                    "cause": "Fungus",
+                    "comments": "Most important disease of rice worldwide; causes most damage in areas of intense cultivation; disease emergence favors high soil nitrogen content",
+                    "management": "If disease is not endemic to the region, blast can be controlled by planting resistant rice varieties; avoid over-fertilizing crop with nitrogen as this increases the plant's susceptibility to the disease; utilize good water management to ensure plants do not suffer from drought stress; disease can be effectively controlled by the application of appropriate systemic fungicides, where available"
+                },
+                {
+                    "disease_name": "Sheath blight",
+                    "botanical_name": "Rhizoctonia solani",
+                    "symptoms": "Circular, oblong or elliptical, green to gray water-soaked spots on leaf sheaths; lesions with pale green or white center and purple-brown margin; lesions covering leaf sheaths and stems; poorly filled grains",
+                    "cause": "Fungus",
+                    "comments": "Occurs in all areas where rice is grown; second only importance to rice blast; most damaging in intensive rice production; spreads rapidly via irrigation",
+                    "management": "Avoid overfertilizing plants as excessive nitrogen application has been shown to increase susceptibility to the disease; applications of foliar fungicides may be required; two applications are recommended and should be timed so that the first application is made between the early internode elongation and the second application made on emerging panicles 10-14 days later"
+                },
+                {
+                    "disease_name": "Stem rot",
+                    "botanical_name": "Magnaporthe salvinii",
+                    "symptoms": "Symptoms generally begin to appear after the mid tillering stage; black lesions appear on outer leaf sheath at the water-line; lesions expand and begin to infect inner leaf sheaths and culm begins to rot; infections which reach the culm can leaf to lodging of plants, unfilled panicles and death of tillers",
+                    "cause": "Fungus",
+                    "comments": "Fungus survives in crop debris in soil after harvest; fruiting bodies are carried to the surface when fields are flooded where they then infect leaf sheaths at the water line",
+                    "management": "Bury crop residue deeply in the soil after harvest; avoid excessive nitrogen fertilization; plant less susceptible rice varieties"
+                },
+                {
+                    "disease_name": "Grassy stunt",
+                    "botanical_name": "Nephotettix",
+                    "symptoms": "Stunted plants; short, narrow pale green or yellow leaves; mottled or striped pattern on newly unfolded leaves; irregular dark brown spots on leaves; few or no panicles produced;",
+                    "cause": "Virus",
+                    "comments": "Transmitted by leaf hoppers; disease widespread in rice growing regions of South and Southeast Asia, southern China, southern Japan and Taiwan",
+                    "management": "Several varieties of rice resistant to the leaf hopper vectors have been developed but the insects have overcome the resistance in several countries; applications of appropriate insecticides can help to reduce populations of vectors in temperate regions"
+                },
+                {
+                    "disease_name": "Tungro",
+                    "botanical_name": "Nephotettix",
+                    "symptoms": "Plants are stunted with a yellow-orange discoloration; plants may have a reduced number of tillers and rust colored spots on leaves; leaves may be mottled, striped or exhibit interveinal necrosis",
+                    "cause": "Virus",
+                    "comments": "Disease is the most severely damaging virus of rice in South and Southeast Asia; virus is transmitted by leafhoppers",
+                    "management": "Rice varieties resistant to tungro virus have been developed and control the disease successfully; intense cultivation has led to the breakdown of the resistance by some virulent leafhopper strains; in Indonesia, the disease is successfully controlled by scheduling planting to obtain synchronous development and practicing crop rotation with resistant varieties"
+                },
+                {
+                    "disease_name": "Leafhoppers & planthoppers",
+                    "botanical_name": "Nephotettix",
+                    "symptoms": "Plants may show no symptoms of leafhopper of planthopper damage; feeding punctures can leave the plants susceptible to bacterial or fungal infections; insects transmit many rice viruses; if infestations is severe, insects may cause plant to completely dry out; adults insects are pale green or brown winged insects with piercing-sucking mouthparts",
+                    "cause": "Insect",
+                    "comments": "Leaf and planthoppers transmit many rice viruses, including grassy stunt and tungro virus",
+                    "management": "Rotating crop for a period of one year is an effective and economical method of controlling hopper numbers; natural enemies and predators are often very successful at controlling hoppers and should be conserved by avoiding inappropriate use of insecticides which can damage their populations; planting resistant varieties is a very effective control method; chemical control with an appropriate insecticide may be necessary but should only be applied if the insects have reached an economic threshold"
+                },
+                {
+                    "disease_name": "Mole cricket",
+                    "botanical_name": "Gryllotalpa orientalis",
+                    "symptoms": "The insect is very destructive because it feeds on seeds, tillers of mature plants and roots. It mainly cut the tillers at ground level and causes gap in rice field. Usually the symptoms appear in patches.",
+                    "cause": "Insect",
+                    "comments": "We can see burrows of insect at sides of rice field and usually burrows will have heap of soil at entrance.",
+                    "management": "Use resistant varieties. Level the field properly and irrigate every 3-4 days after planting. Collect and kill the insects during land preparation. Avoid nurseries with raised bed to reduce cricket infestation during seedling stage. Improve biocontrol agents in field. If damage is large use food bait (commonly rice bran) mixed with insecticide and place along borders."
+                },
+                {
+                    "disease_name": "Rice bug",
+                    "botanical_name": "Leptocorisa oratorius F. and Leptocorisa acuta Thunberg",
+                    "symptoms": "The insect attacks during spikelet stage of rice crop. Both nymphs and adults suck the content out of grains from pre-flowering spikelets to soft dough stage. This leads to unfilled, empty and discolored grains.",
+                    "cause": "Insect",
+                    "comments": "If the infestation is severe it may cause yield loss up to 30%.",
+                    "management": "Keep the field and surrounding area free from weeds which serves as alternative host for insect during non cropping season. Equal distribution of fertilizers and water in rice field to encourage even crop growth. Collect and kill insects manually by using net during early morning and late after noon. Encourage biological control agents."
+                },
+                {
+                    "disease_name": "Rice case worm",
+                    "botanical_name": "Paraponyx stagnalis Stagnalis",
+                    "symptoms": "Case worm larvae scraps chlorophyll from leaves. Another important symptom is the larvae cuts off leaf tips and make cylindrical tubes around them. In infected field you can see cylindrical tubes attached to plants or floating on water surface.",
+                    "cause": "Insect",
+                    "comments": "The damaged leaf tissue looks like ladder.",
+                    "management": "Drain water to remove floating larvae from field. Follow proper cultivation practices like nitrogen application and spacing. Encourage biological control agents like snails, spiders, lady bird beetles, dragon flies in rice field."
+                },
+                {
+                    "disease_name": "Rice gall midge",
+                    "botanical_name": "Orseolia oryzae",
+                    "symptoms": "Gall midge maggot bore into bud or stalk of rice plant and feeds on internal content which leads to formation of tubular gall at the base of the tillers. This leads to elongation of leaf sheath which is commonly called as silver shoot or onion shoot. The leaves will be wilted, deformed and curled up.",
+                    "cause": "Insect",
+                    "comments": "It is common during tillering stage of rice crop.",
+                    "management": "Grow available gall midge resistant cultivars. Follow proper cultural practices like crop rotation, ploughing the ratoon crop and other alternative hosts, planting early etc. Use light traps to attract adult flies and kill them. Conserve biocontrol agents in rice field."
+                },
+                {
+                    "disease_name": "Rice mealy bugs",
+                    "botanical_name": "Brevennia rehi",
+                    "symptoms": "Both adult and nymphs feed on rice plant by sucking sap. The main symptoms are stunting and wilting of plants, yellowing and curling of leaves.",
+                    "cause": "Insect",
+                    "comments": "We can see white wax covered eggs, nymphs and adults on infected plants. The insects are common in field with well drained soil.",
+                    "management": "Augment biocontrol agents (like lady bird beetles, chloropid flies, spiders, small encyrtid wasps) in rice fields."
+                },
+                {
+                    "disease_name": "Stem borers (Yellow stem borer, Striped stem borer, White stem borer, etc.)",
+                    "botanical_name": "Scirpophaga incertulas\nChilo suppressalis\nScirpophaga innotata",
+                    "symptoms": "Longitudinal white patches on leaf sheaths; central leaf whorl drying out and turning brown; tillers drying out without producing panicles; panicles may dry out or may produce no grain; adult insects are nocturnal moths which lay their eggs on the leaves or leaf sheaths of the rice plants; larvae are legless grubs which feed on leaf sheaths before entering the stem of the pant",
+                    "cause": "Insect",
+                    "comments": "Stem borers are generally considered to be the most damaging insect pest of rice",
+                    "management": "Stem borers are difficult to control with insecticides as once they bore inside the stem they are protected from chemical sprays; in order for chemical control to be successful, repeated applications of appropriate insecticide must be made to the foliage; granular formulations give better control than sprays; clipping seedling prior to transplanting can successfully reduce moth numbers as eggs are laid at leaf tips; harvesting plants at ground level can remove the majority of larvae from the field; plowing or flooding the remaining stubble will kill off most of the remainder of the larvae in the field"
+                }
+            ]
+        }
+    ]
+}
